@@ -1,0 +1,1007 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Stablishing against shaking: or, A discovery of the Prince of Darknesse (scarcely) transformed into an angel of light, powerfully now working in the deluded people called, Quakers: with a sober answer to their railings against ministers for receiving maintenance from their people. Being the substance of one sermon preached Feb. 17. 1655. at Shalford in Essex. / By Giles Firmin (pastour of the church there) upon occasion of the Quakers troubling those parts.</title>
+            <author>Firmin, Giles, 1614-1697.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 143 KB of XML-encoded text transcribed from 34 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85315</idno>
+            <idno type="STC">Wing F967</idno>
+            <idno type="STC">Thomason E885_13</idno>
+            <idno type="STC">ESTC R202074</idno>
+            <idno type="EEBO-CITATION">99862487</idno>
+            <idno type="RLIN">99862487</idno>
+            <idno type="VID">114648</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85315)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114648)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 133:E885[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Stablishing against shaking: or, A discovery of the Prince of Darknesse (scarcely) transformed into an angel of light, powerfully now working in the deluded people called, Quakers: with a sober answer to their railings against ministers for receiving maintenance from their people. Being the substance of one sermon preached Feb. 17. 1655. at Shalford in Essex. / By Giles Firmin (pastour of the church there) upon occasion of the Quakers troubling those parts.</title>
+                  <author>Firmin, Giles, 1614-1697.</author>
+               </titleStmt>
+               <extent>[8], 56, [2] p. ;   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.G. for Nathanael Webb, and William Grantham, at the black Beare in St. Paul's Church-yard neer the little north-dore.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a final errata leaf.</note>
+                  <note>Annotation on Thomason copy: "Aug. 28".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Corinthians, 2nd XI, 14 --  Sermons.</term>
+               <term>Society of Friends --  England --  Shalford (Essex, England) --  Controversial literature --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114648:1" rendition="simple:additions"/>
+            <p>STABLISHING AGAINST SHAKING: OR, A Diſcovery of <hi>the Prince of Darkneſſe</hi> (ſcarcely) transformed into <hi>an Angel of Light,</hi> powerfully now working in the deluded people called, <hi>QUAKERS:</hi>
+            </p>
+            <p>WITH A ſober <hi>Anſwer</hi> to their railings againſt <hi>Miniſters</hi> for receiving maintenance from their people.</p>
+            <p>Being the ſubſtance of one SERMON preached <hi>Feb.</hi> 17. 1655. at <hi>Shalford</hi> in <hi>Eſſex.</hi>
+            </p>
+            <p>BY GILES FIRMIN (Paſtour of the Church there) upon occaſion of the <hi>Quakers</hi> troubling thoſe parts.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. G.</hi> for <hi>Nathanael Webb,</hi> and <hi>William Grantham,</hi> at the black Beare in St. <hi>Paul</hi>'s Church-yard neer the little North-dore. 1656.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:114648:2"/>
+            <head>To the Worſhipfull <hi>D<g ref="char:V">Ʋ</g>DLEY TEMPLER</hi> Eſq. Juſtice of the Peace in ESSEX.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>
+               </hi> Should be very ungratefull, now this Sermon comes to be <hi>read,</hi> if I ſhould forget you, without whoſe aſsiſtance it had ſcarce been
+<note n="*" place="margin">Twice I was interru<g ref="char:EOLhyphen"/>pted, as I was preach<g ref="char:EOLhyphen"/>ing.</note> 
+               <hi>heard.</hi> I wiſhed much for your preſence, though I did not requeſt it: but what I feared your ſelf apprehended, and ſeaſonably coming in, ſtopped thoſe mouthes by your Civill power, which neither reaſon, nor the ſo<g ref="char:EOLhyphen"/>lemnity of the Ordinance would have ſi<g ref="char:EOLhyphen"/>lenced:
+<pb facs="tcp:114648:3"/>had you been an <hi>Anabaptiſt, an enemy to the Miniſtery and Learning</hi> (as ſome have unjuſtly reported) you might have ſpared this care: if this act will not clear you, let my pen anſwer for you; (for I think no Minister hath more inward acquaintance with you than my ſelfe) I never heard him ſo much as question his own Baptiſme, but I have heard him diſ<g ref="char:EOLhyphen"/>approve of perſons for being Re-baptized, and two of his Children my ſelfe have baptized; how then is he an <hi>Anabaptiſt:</hi> When a Miniſter was nominated to ſuc<g ref="char:EOLhyphen"/>ceed his deceaſed Paſtor, becauſe it was told him, that he was a Miniſter that would ad<g ref="char:EOLhyphen"/>mit Tradeſmen into his Pulpit, he told me he ſhould never come there; and for Lear<g ref="char:EOLhyphen"/>ning, ſuch an enemy he is unto it, that I have heard him ſay, <hi>Take away Learn<g ref="char:EOLhyphen"/>ing, and</hi> England <hi>becomes a dunghill:</hi> This I am ſure, be a Miniſter Claſsicall, or Congregationall, ſo he be learned, able,
+<pb facs="tcp:114648:3"/>and godly, holding to the old ſound Divi<g ref="char:EOLhyphen"/>nity, he makes no difference, but can em<g ref="char:EOLhyphen"/>brace both, beteaming them not onely a<g ref="char:EOLhyphen"/>maintenance, but an honourable mainte<g ref="char:EOLhyphen"/>nance. How then men will prove their re<g ref="char:EOLhyphen"/>ports, I know not, unleſſe thus, <hi>He is a Souldier; Ergo:</hi> but it is eaſily anſwered, <hi>Non ſequitur,</hi> unleſſe this Propoſition be true, <hi>All Souldiers are Anabaptiſts and enemies to the Miniſtery, &amp;c.</hi> which I am ſure is falſe of ſome, though true of too many. Goe on then, good Sir, let not theſe reports trouble you (though I know they have done) God will in time clear up your innocency more by your actions than by my pen, and give his Church as much cauſe to bleſſe him for your faithfulneſſe to it, as the Common-wealth hath cauſe to bleſſe him, for the unbyaſſed integrity, and painfull di<g ref="char:EOLhyphen"/>ligence, which you have manifeſted in the execution of your Office as related to it: What I have here preſented to you I pray
+<pb facs="tcp:114648:4"/>accept, as a teſtimony of that honourable reſpect I beare unto you, ſubſcribing my ſelfe,</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>Feb. 28. 1655.</hi>
+                  </date>
+               </dateline>
+               <signed>Your ſervant GILES FIRMIN.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:114648:4"/>
+            <head>
+               <hi>To the</hi> READER.</head>
+            <p>NO man, I think, was more reſolved a<g ref="char:EOLhyphen"/>gainſt medling with this <hi>Sect</hi> than my ſelfe, inſomuch that though they came into divers Towns about me, yet I let them alone, judging ſilence to be beſt, and was apt to blame other Miniſters that kept Faſts againſt them, being a generation not worthy the taking notice of: but I ſaw at laſt, when I would not trouble them, they would trouble me, ſent di<g ref="char:EOLhyphen"/>vers of their Books into our Town, invited my people to come and heare, and prevailed with ſome to hear; now I was forced to change my reſolutions, <hi>Dury</hi> calling upon mee now to ſpeak: twelve of their Books were brought to me, (beſides <hi>Toldervy</hi>'s, who ſaid, his foot was out of the ſnare, but I could not ſo judge of him, and what I ſaid of him is ſince come to paſſe) which when I had peruſed, I made one Sermon to diſcover this generation, and I bleſs God for the good ſucceſſe I found of it. Some
+<pb facs="tcp:114648:5"/>people deſired my Notes, but my Sermon be<g ref="char:EOLhyphen"/>ing very long, it was too tedious to write over my Notes; and ſome friends counſelling me to print them: I choſe this as the eaſieſt way: ſome paſſages I have added, which I would not uſe in a pulpit: when will the bleſſed God re<g ref="char:EOLhyphen"/>move theſe ſpiritual judgments from this poor Nation?</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:114648:5"/>
+            <head>
+               <hi>Stabliſhing</hi> againſt <hi>Quaking,</hi> &amp;c.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>2 Cor. 11.14.</hi>
+                  </bibl>
+                  <p>And no marvell, for Satan himſelfe is transformed into an Angell of Light.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>His Chapter may be divided into foure parts:</p>
+            <p n="1">1. Is a Preface the Apoſtle makes to his Apo<g ref="char:EOLhyphen"/>logie, defiring the <hi>Corinthians</hi> to give him au<g ref="char:EOLhyphen"/>dience, and weigh well what he had to ſay from the<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to the 6 verſe.</p>
+            <p n="2">2. He anſwereth to what they had alledged againſt him; from the 6 to the 13 ver.</p>
+            <p n="3">3. He makes a little digreſſion, and points out theſe falſe Teachers in their colours, from ver. 13 to v. 16.</p>
+            <p n="4">4. He compares himſelf with theſe falſe Teachers.</p>
+            <q>For the firſt he giveth divers reaſons why they ſhould heare him, and that carefully.</q>
+            <p n="1">1. The ardent, holy love he bare to them, ver. 2. taking his Metaphor from the jealouſie in Conjugal relations; he ſpeak<g ref="char:EOLhyphen"/>eth as a wooer, though he did not wooe for himſelfe, but for Chriſt; and ſo explicates this in the next words, <hi>For I have eſpouſed you, &amp;c.</hi>
+            </p>
+            <p n="2">2. From the holy feare he had, illuſtrated by a compariſon, what the Serpent was to <hi>Eve,</hi> the ſame he will be to you if he can. ver. 3.</p>
+            <pb n="2" facs="tcp:114648:6"/>
+            <p n="3">3.
+<note place="margin">
+                  <hi>Verba haec qua<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLhyphen"/>dam qua<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i ironta<g ref="char:cmbAbbrStroke">̄</g> prae ſe ferre vi<g ref="char:EOLhyphen"/>dentur quâ Co<g ref="char:EOLhyphen"/>rinthios, novita<g ref="char:EOLhyphen"/>tis avidos falſe ridet,</hi> Wein<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>: in loc.</note> If your new Teachers can bring another Chriſt, a more excellent Goſpel, or conferre more excellent gifts of the Holy Ghoſt, then let them be heard; but ſince this is impoſſible, they cannot preach Chriſt, nor open the Goſpel, nor conferre ſuch gifts; therefore hear me, ver. 4.</p>
+            <p>The ſame we will ſay to theſe Quakers, or any deſpiſers of the Miniſters, if they can open the Goſpel, can teach Chriſt, have better gifts than the Miniſters, then run after them, but if not, then ſtay with thoſe who firſt taught you Chriſt, the Goſpel, &amp;c.</p>
+            <p n="4">4. I am not onely ſuperiour to theſe falſe teachers, but I am equall with the beſt of the Apoſtles, therefore hear me, and thus, ver. 5.</p>
+            <p>From <hi>Pauls</hi> uſing thus many Arguments to get audience, obſerve: <hi>When once people have lent their eares to falſe teachers, they will hardly lend them again to true.</hi>
+            </p>
+            <p>True Teachers muſt plead hard for their peoples eares, and it is well if they can with intreaties prevaile: it was ſo then, and to be ſure we finde it ſo now.</p>
+            <p n="2">2. He anſwers what they objected againſt him:</p>
+            <p n="1">1. They object, that <hi>he was rude in ſpeech,</hi> ver. 6. He did not lard his Sermons, nor Epiſtles with Athenian elo<g ref="char:EOLhyphen"/>quence, nor flouriſh with gallant ſtrains of wit: yet ſurely not ſo rude as they made him, he could ſpeak ſo well that (<hi>Act.</hi> 14. ver. 12.) the heathens took him to be <hi>Mercurius,</hi> one of their gods. Well, he anſwers, am I ſo rude, but examine me in my knowledge, conſider me in all things that are requiſite to an Apoſtle, and ſo if I have not manifeſted my ſelf in all things to be a true one.</p>
+            <p>The ſame we ſay to theſe Quakers, and all others, if by their knowledge, and all things elſe requiſite to Miniſters or Apoſtles, [if there be any more to come, for they tell us they are ſent out with an Apoſtolicall ſpirit] they can manifeſt themſelves to us to be Miniſters, or Apoſtles, we will liſten to them; but by all we can finde in their Books, they ſcarce appear to be rationall men.</p>
+            <p n="2">2. The ſecond Objection was, the humility of his perſon, ver. 7. he abaſed himſelf, wrought with hands, taught the Go<g ref="char:EOLhyphen"/>ſpel
+<pb n="3" facs="tcp:114648:6"/>freely. To this he anſwers, you need not object this againſt me, for my humiliation was but your exaltation; for I ſpared you: but <hi>how then maintained?</hi> by other Churches, ver. 8, 9. the Churches of <hi>Macedonia</hi> ſupplied my wants. But as for you I have not been burdenſome to you, neither will I be, ver. 9. to the end. In the Regions of <hi>Achaia</hi> none ſhall ſtop me of this boaſting: which he confirms with a kinde of an oath, as <hi>Cal<g ref="char:EOLhyphen"/>vin, Piſcator, Weinrichius,</hi> and others judge of the words, <hi>As the truth of Chriſt is in me,</hi> ver. 10. as I am a true Miniſter of Chriſt: or let me not be eſteemed to have any truth. To be ſure this is more than <hi>Yea, yea, and Nay.</hi> Which the Quakers make ſo much uſe of.</p>
+            <p>But why will you take no maintenance of us, it is becauſe you doe <hi>not love us?</hi> ver. 11. So my enemies may ſuggeſt to you, I love the <hi>Macedonians,</hi> but not you. But this is not ſo, <hi>God knowes,</hi> he appeals to God: this is more than <hi>Yea, yea</hi> again. True here is a weighty caſe why <hi>Paul</hi> uſeth theſe expreſſions. <hi>But why then will you not &amp;c?</hi> I will give you the reaſon in v. 12. becauſe firſt I would <hi>cut off occaſion that is,</hi> ſhould I take mainte<g ref="char:EOLhyphen"/>nance of all Churches, my enemies your falſe teachers, would tell you that all my preaching is but for money, profit; but now they cannot ſay ſo, for I take nothing of you. Again, your falſe teachers they <hi>glory that they teach freely,</hi> they require nothing of you, no more doe I, nor will I in the regions of <hi>Achaia:</hi> Now you have the Reaſons.</p>
+            <p>Before I goe any further, I have here as fit a place as I could deſire (I did not think of it when I choſe my Text, but I ſee Pro<g ref="char:EOLhyphen"/>vidence hath fitted a place for me) to take up that great cla<g ref="char:EOLhyphen"/>mour which with one mouth all the Quakers make againſt the Miniſtery. I muſt name them all if any, for all their Books are full of it, (and with the Quakers the Separatiſts) <hi>we are no true Miniſters; but why? we teach not the Goſpel freely as did the A<g ref="char:EOLhyphen"/>poſtles: we preach for hire, divine for money, we are covetous,</hi> and much of this ſtrain, divers of their pages have little elſe but this kinde of ſtuffe. Thus the ſilly Women told me in the Church, <hi>I was a Hireling, &amp;c.</hi>
+            </p>
+            <p>To all theſe I anſwer:</p>
+            <p n="1">1. <hi>Falſe teachers may and have preached freely: then be ſure
+<pb n="4" facs="tcp:114648:7"/>free teaching could not prove us to be true Miniſters.</hi>
+               <note place="margin">Yet the Qua<g ref="char:EOLhyphen"/>kers teach not freely, for at one Towne by me, I hear that one of theſe Quakers had about five pounds gathe<g ref="char:EOLhyphen"/>red for him, beſides his en<g ref="char:EOLhyphen"/>tertainment.</note> This is plain from the Apoſtle here in ver. 12. for the falſe teachers did glory in this, and therefore <hi>Paul</hi> he would teach freely to <hi>Corinth,</hi> and be even with them in glorying. Thus <hi>Parnell,</hi> who tells us he is ſent from Chriſt, (if any man could believe him, but the youth thinks others have as few brains as himſelfe) he teacheth freely (and well he may:) but this doth not prove him to be a true Teacher, nor none of his Sect, or any other Sect whatever: but he is a falſe teacher, though a free teacher, as were theſe: (but <hi>[Teacher]</hi> is a word he deſerves not.)</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. <hi>It is falſe, that All the Apoſtles taught freely, and wrought to maintain themſelves.</hi> This is plain, 1 <hi>Cor.</hi> 9.6. in which Chap. the Apoſtle proves by no leſſe than ſeven Arguments, that the Miniſters may take maintenance, ver. 14. ſpeaks as fully as can be, being the winding up of his arguments: <hi>Even ſo hath the Lord ordained, &amp;c.</hi> Here is an Ordinance from heaven for the <hi>maintenance</hi> of right Goſpel-Preachers, if the authority of the LORD who made it, be as good as the authority of the <hi>Quakers</hi> and <hi>Separatiſts,</hi> and by vertue of this Ordinance we claim our <hi>maintenance.</hi> How learnedly the <hi>Quakers</hi> talke of theſe argu<g ref="char:EOLhyphen"/>ments you ſhall hear anon. But to come to the 6 ver. <hi>Or I onely and Barnabas, have not we power to forbear working?</hi> The word <hi>[Onely]</hi> plainly carryes it, that the other Apoſtles, who were married, and were trained up to fiſhing (divers of them) thoſe did forbear: but what have all the Apoſtles thus power to leave of, take maintenance, but I <hi>onely</hi> and <hi>Barnabas, &amp;c?</hi> No, no, we have the ſame power as well as they. But ver. 15. <hi>I have uſed none of theſe things, &amp;c.</hi> Again, in the 12 ver. <hi>If others be partakers of this power over you, &amp;c.</hi> Their own Officers, it ſeems, or others did take maintenance. So could he.</p>
+            <p n="3">
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. It is falſe alſo that <hi>Paul</hi> took no maintenance: for in the 8 &amp; 9 ver. of my Chap: he ſaith, <hi>He took wages of others to ſerve them, i. e.</hi> the Church of <hi>Philippi. Paul</hi> could take his liberty where he ſaw cauſe. If <hi>Paul,</hi> than we.</p>
+            <p n="4">
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> 4. We deſire none to ſpeak for us, more than <hi>Paul,</hi> whom theſe <hi>Quakers</hi> object againſt us: For we have his own example, he did take <hi>wages.</hi> Secondly, he as <hi>moved</hi> and <hi>guided by Gods Spirit,</hi> doth not onely ſhow it is the minde of God, but he
+<pb n="5" facs="tcp:114648:7"/>proves it alſo, by divers reaſons, 1 <hi>Cor.</hi> 9. Adde to this, 6 <hi>Gal.</hi> 6.
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>Let him that is taught in the word, communicate unto him that teacheth,</hi> (or <hi>catechizeth,</hi> as the word properly ſignifies) <hi>in all good things.</hi>
+            </p>
+            <p>Will the <hi>Quakers</hi> allow this Text to be Scripture? then let <hi>Him,</hi> be he or ſhe what they will, high or low,
+<note place="margin">Its poſſible the <hi>Quakers</hi> will object againſt the <hi>ſhe,</hi> but I will let them alone to ſee if they will doe it.</note> maſter or ſer<g ref="char:EOLhyphen"/>vant, is he or ſhe <hi>taught;</hi> catechized? then communicate in <hi>All,</hi> what <hi>All?</hi> this word will not be liked: yea <hi>all good</hi> things, fit to be communicated, or communicable. So 1 <hi>Tim.</hi> 5.17. one part of the honour Miniſters muſt have is <hi>maintenance,</hi> the 18 ver. proves it: marke, it is <hi>honorarium,</hi> the maintenance of the Elders is not as the pay I give for a ſervants worke, but it is <hi>honour,</hi> an honourable maintenance. The ſame Apoſtle ſaith, 2 <hi>Tim.</hi> 2 4.
+<note place="margin">So 1 Tim 4.15. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Be in theſe things.</hi>
+               </note> 
+               <hi>No man that warreth entangleth himſelf with the af<g ref="char:EOLhyphen"/>faires of this life, &amp;c.</hi> But how then ſhall he live? I ſhall adde no more, God hath provided for us expreſsly in the New Teſta<g ref="char:EOLhyphen"/>ment; though the maintenance we have fall ſhort abundantly of what the Prieſts had in the Old Teſt:</p>
+            <p n="5">
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> 5. The LORD did never upbraid any Church-Officer for taking tithes or maintenance who did his worke; nor ever thought the worſe of for that: nay, how often he blames the people for not bringing in the tithes, <hi>Mal.</hi> 3.8, 9, 10. and other Texts. The Lord did ever beteame his Miniſters <hi>honour<g ref="char:EOLhyphen"/>able wages</hi> Whence you doe but wickedly to upbraid us with thoſe Texts, unleſſe you could prove us to be no workers. I doubt not but Chriſt in glory doth take himſelf to be faithfully preached by the Miniſters of <hi>England,</hi> (I will not ſay every one) why then not maintained?</p>
+            <p n="6">
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> 6. But obſerve theſe <hi>Quakers</hi> how they provide for them<g ref="char:EOLhyphen"/>ſelves by Scripture. <hi>Naylor: Saluta: &amp;c.</hi> p. 37. 38. he ſpeaks againſt the Magiſtrates becauſe they impriſon ſome of their Sect, calling themſelves <hi>Pilgrims,</hi> and tells them, that <hi>God fore<g ref="char:EOLhyphen"/>ſeeing their doings, hath commanded all that own him to entertain ſtrangers, and made a Law for it, which you have made a Law a<g ref="char:EOLhyphen"/>gainſt,</hi> and quotes <hi>Levit.</hi> 19.34. <hi>Heb.</hi> 13.2. Obſerve how they have provided for themſelves, when they wander up and down, to miſlead ſouls, and trouble the Churches; yet you muſt enter<g ref="char:EOLhyphen"/>tain them: they have two Scriptures for it. But <hi>Naylor;</hi>
+            </p>
+            <pb n="6" facs="tcp:114648:8"/>
+            <p n="1">1. Doe the Spirit that is infallible teach men to lye as you doe againſt the Magiſtrate? hath he made a Law againſt Gods Law in this point? no true ſtranger will ſay it but idle perſons, Vagabonds, Rogues, perſons who worke not in their callings, what ſhould become of the Nation elſe?</p>
+            <p n="2">2. Will two Texts ſerve to prove that <hi>Naylor,</hi> or others, when they wander up and down, yet they muſt be entertained, men muſt provide you lodging, food, &amp;c. and will not five Scri<g ref="char:EOLhyphen"/>ptures that ſpeak for Miniſters maintenance, be as ſtrong for them to require it? are not the people bound as well to pro<g ref="char:EOLhyphen"/>vide for us, as men to entertain you? you are the perſons who oppoſe Gods Law, not the Magiſtrate. For ſhame leave off quo<g ref="char:EOLhyphen"/>ting of Scriptures thus.</p>
+            <p n="3">3. But <hi>Naylor</hi> you might have read a little further, to the 7 &amp; 17 ver: there you ſhall finde that theſe <hi>Hebrews</hi> to whom the Apoſtle writes, had <hi>Rulers over them, and they were to obey them:</hi> their duty to entertain ſtrangers, ſo to have Rulers and obey them: but your Sect, and ſo others with you are not ſuch as thoſe <hi>Hebrews,</hi> from whom you fetch your proof, for you rail at thoſe who are ſuch, and at the people who have ſuch.</p>
+            <p>Thus then by the <hi>Quakers</hi> principles, I hope we may yet call for our maintenance.</p>
+            <p n="7">7. Our Lord Chriſt, who <hi>Mat.</hi> 10.8. bid his Diſciples, that as they had <hi>received freely, ſo give freely:</hi> that is, as Chriſt had freely given them thoſe <hi>gifts of healing, &amp;c.</hi> by which they might have ſoon been very rich (the 1 &amp; 8 ver. ſhow what they had received,) yet <hi>Luke</hi> 10.7. he bids them <hi>eat and drinke, for the labourer is worthy of his hire.</hi> If they muſt carry no <hi>purſe</hi> with them, ver. 4. he intended they ſhould be maintained, and ſhew plainly it was their duty to maintain them; for he could have furniſhed them with money, but would not.</p>
+            <p>For <hi>Paul,</hi>
+               <note place="margin">
+                  <hi>Magd. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>en<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 1. l. 2. p. 451.</note> it plainly appears by <hi>Acts</hi> 18.3. that though he were brought up to Learning (which at that time was ſo fa<g ref="char:EOLhyphen"/>mous in <hi>Tarſus</hi> that it excelled <hi>Athens, Alexandria,</hi> and other Univerſities, and ſo <hi>Paul</hi> was learned, acquainted alſo with hea<g ref="char:EOLhyphen"/>then Poets, as appears) yet withall he was alſo taught a Trade: <hi>he was of the ſame craft with Aquila,</hi> he did not learne it of <hi>A<g ref="char:EOLhyphen"/>quila</hi> then, but before he came <hi>Paul</hi> had his trade: for <hi>Paul</hi>
+               <pb n="7" facs="tcp:114648:8"/>being of the Tribe of <hi>Benjamin,</hi> though he were learned, yet he could not come into the Prieſthood, and ſo had none of the Tythes to maintain him, he muſt maintain himſelf. So thoſe El<g ref="char:EOLhyphen"/>ders of <hi>Epheſus, Act.</hi> 20. and other Elders, they all had their trades by which they maintained themſelves before ever they heard of the Goſpel; then no wonder though <hi>Paul,</hi> and thoſe Elders did ſometimes work: <hi>Paul</hi> being a ſingle perſon might eaſily maintain himſelf.</p>
+            <p n="2">2. <hi>Paul</hi> having the Spirit in that manner, need not trouble himſelf, to attain any thing needfull to his work; and I doubt not the ordinary Elders at that time, yet had another manner of aſſiſtance than we have now, for to have them men ſo <hi>able to teach,</hi> and <hi>convince gainſayers, Tit.</hi> 1. theſe gifts could not be reached ſo quickly: but though they did labour and ſtudy for them, yet the Spirit might aſſiſt more than now he doth for the ſpeedy fitting of perſons.</p>
+            <p n="3">3. It was a free act in <hi>Paul</hi> that he for this time upon ſome reaſon moving him did ſuſpend his power, 1 <hi>Cor.</hi> 9.12. if he were abſolutely bound to it, why not others alſo? <hi>v</hi> 6. So if any now who have means ſufficient for themſelves and their poſte<g ref="char:EOLhyphen"/>rity will preach freely they may: but nevertheleſſe there re<g ref="char:EOLhyphen"/>mains a duty on the peoples part to maintain them, as ſuch that <hi>preach the Goſpel, v.</hi> 14. though they be otherwayes able to live. Neither hath the Scripture given any ſuch caution, that if Mi<g ref="char:EOLhyphen"/>niſters have good eſtates of their own, then the people ſhould not give them the double honour. Though the Prieſts were never ſo rich, yet that did not hinder them from taking Tythes. Though Kings have great Lands, yet the people pay Cuſtomes. So in any other Art, or place whatever men are in; for the reaſon holds, <hi>The labourer is worthy,</hi> &amp;c.</p>
+            <p>But what are theſe things to us? when <hi>first,</hi> our fitneſſe to this work is not ſo eaſily attained; thoſe Languages wherein the Scriptures were writ, which coſt us much time to attain to, as without which no man can be a good Text-man, they never beſtowed any paines about. The cuſtomes to which the Apoſtles allude often, they knew them becauſe their own, but we cannot till we read and know them by Learning. The Errors which Miniſters are to oppoſe, are abundantly multiplyed over they
+<pb n="8" facs="tcp:114648:9"/>were in the Apoſtles time; thus I might ſpeak for the neceſſity of Arts, without which men cannot be ſufficient Miniſters, all things put together prove, that he who will be a Miniſter, had need give his whole time; let him ſtudy, and pray, as bard as he will; let him live a hundred years in his ſtrength, yet he that will be a Miniſter indeed, will ſay he finds all little enough: if it were no more to be a Miniſter but to ſtep off a ſhop-board, and get into a Pulpit, and ſpeak ſome honeſt practicall things, which people have heard from others, and know ſomething it may be from their own experience, then it were eaſie work in<g ref="char:EOLhyphen"/>deed, and well might the people grumble at the maintenance of ſuch. Hence we ſee <hi>Paul</hi> in his Epiſtle to <hi>Timothy</hi> who was not bred up, as others, <hi>he must give himſelfe wholly to theſe things,</hi> Chap. 4. ver. 15. <hi>not entangle himſelfe with the affairs of this life.</hi> Chap. 2. ver. 4. Then muſt <hi>Timothy</hi> be maintained by the Church, or beg, if he have not enough of his own eſtate to keep him.</p>
+            <p n="2">2. Is your offence at Tithes?</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, it is well known if the Magiſtrate (who is to doe what in him lieth, that the people under him <hi>may lead a quiet and peaceable life in all godlineſſe and honesty,</hi> 1 Tim. 2.2. why elſe ſhould the people pray that they might doe ſo; and to this end takes care that according to Gods Inſtitution, Miniſters be pro<g ref="char:EOLhyphen"/>vided who may teach the people all godlineſs &amp; honeſty, he in the mean time a <hi>Nurſing Father</hi> to them, <hi>Iſa.</hi> 49. ſee that they may have an honourable maintenance according to the word: I ſay if the Magiſtrate) could finde a better way for the main<g ref="char:EOLhyphen"/>tenance of the Miniſtery every way, you ſhall ſee how eaſily Miniſters will part with Tithes. But now we take them as that which the Supreme power of the Nation for many yeares have allotted to us.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> You have the leaſt cauſe to be offended at Tithes, becauſe Tithes <hi>are no mans owne,</hi> but the Miniſters many hundred years ſince the Parliament of <hi>England</hi> (not the Pope, as learned <hi>Parnel</hi> ſaith in his books) did ſet apart the Tithes, for the main<g ref="char:EOLhyphen"/>tenance of the Miniſtery, and the ſupreme Magiſtrate is but the Feoffee in truſt, to ſee that what the people of <hi>England</hi> in their repreſentative, with the King and houſe of Lords, had given to
+<pb n="9" facs="tcp:114648:9"/>the Miniſterie, be duly payed them; let this convince you (if your hearts be ſober) that Tythes are no mans owne, but the Miniſters; for let a man be to hire a Farme, his Landlord can<g ref="char:EOLhyphen"/>not let him a Farme that ſhall pay no Tythes; let a man buy a Farme, or ſell a Farme, he can neither buy nor ſell a Farme that ſhall pay no Tythes; if a man have a Farme to ſell of an hun<g ref="char:EOLhyphen"/>dred pound <hi>per annum,</hi> this Farme may poſſibly pay twelve pound a yeare for tythes, if this man could fell this farme tythe<g ref="char:EOLhyphen"/>free, would he not raiſe the price in the ſale of it accordingly? So, would not Landlords let their farmes accordingly, if they could let them tithe-free? the Tenant ſhould ſoon finde it: But neither the Landlord, nor Tenant, doe look upon the tythes as theirs, but the Miniſters; whence men <hi>let, hire, buy, ſell</hi> lands as ſtill looking upon them to pay tythes, and ſo none of all theſe are wronged at all: whence tythes are as duly our own, as any mans eſtate is his; and that is the reaſon why when people deny our due, we go to the ſupreme Magiſtrate (who, as I ſaid, is the Feoffee in truſt) in his Officers, and Courts, to help us to our due, as any other man wronged, goeth for right to any Court; whence it is evident, it is meer blindneſſe, (if not madneſſe) which makes people talk thus againſt Miniſters taking of Tithes, for we take onely what is our own, and no mans elſe.</p>
+            <p>As for lands, ſo for houſes, we obſerve the long Parliament made two Acts (it may be more that I know not of) one for <hi>Briſtoll,</hi> another for <hi>Colcheſter,</hi> that according to the rents of houſes, ſo men ſhould pay, not exceeding a certain ſumme, (a very little one I am ſure.) I know wicked ſpirits raile at the Magiſtracie for doing this: but herein the Parliament did what was equal and juſt before God and man: For (as I ſaid in my firſt) if the Magiſtrate be bound to take care that the people under him doe lead a life in <hi>all godlineſſe</hi> &amp;c. which com<g ref="char:EOLhyphen"/>prehends the firſt Table of the Law, then the Magiſtrate muſt ſet up <hi>able men</hi> (no ſlight fellowes) that may anſwer the quali<g ref="char:EOLhyphen"/>fications in the Word, to teach the people; then reaſon, beſides the Word, ſaith theſe muſt be fed, maintained, and that as be<g ref="char:EOLhyphen"/>come their places, ſurely the Magiſtrate who hath power to raiſe a taxe, when the good of the Common-wealth requires it, hath as much power to cauſe people to pay towards the up<g ref="char:EOLhyphen"/>holding
+<pb n="10" facs="tcp:114648:10"/>of the Officers, and Ordinances of God, unleſſe Reli<g ref="char:EOLhyphen"/>gion doe nothing concern the intereſt and good of the Com<g ref="char:EOLhyphen"/>mon-wealth, which to affirm is to fall below <hi>Heatheniſme.</hi>
+            </p>
+            <p>As for ſuch as affirm that the Magiſtrate hath nothing to doe in the Church; the care of it doth not at all belong to him. I think ſuch deviliſh principles deſerve not an anſwer, (yet they are anſwered) though ſuch owne not the Scriptures; yet let them but go to the Heathens, and they will ſhame them.</p>
+            <p n="3">
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. It is well known there are abundance of Miniſters, who take not their tythes in kinde, but compound with the people for their tythes: I would faine ſee the enemies of the Miniſters prove that ever the Prieſts in the old Law, could doe ſuch a thing: then ſtill we take not our Tythes as the Prieſts. All Miniſters would doe thus, would people be reaſonable in their compoſitions; but we finde they defraud us.</p>
+            <p n="4">
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> 4. For Tythes, it is impoſſible that the Supreme power ſhould ever ſettle a more equall and eaſie way for the mainte<g ref="char:EOLhyphen"/>nance of the Miniſtery, than this way of Tythes, already ſet.</p>
+            <p n="1">1. Not more <hi>equall:</hi> for therein we riſe and fall with the people, we ſhare with their bleſſings, and croſſes; we have little or more, as they have little or more.</p>
+            <p n="2">2. Not more <hi>eaſie:</hi> becauſe, as I ſaid, neither the <hi>buyer,</hi> nor <hi>ſeller,</hi> neither he that <hi>hires,</hi> nor he that <hi>lets,</hi> doe look on Tythes as theirs, and is it a burden for men to pay for what is none of their own, and they eſteem none of their own? as in my ſecond I have opened.</p>
+            <p>Object. <hi>But you ſhould truſt God, for your maintenance.</hi>
+            </p>
+            <p>
+               <hi>Anſwer.</hi> So we doe, and deſire to doe, but we will not, nor dare truſt <hi>you:</hi> if your corruption be touched, or your rotten opinion be oppoſed, if your covetous luſt ſtirre (and that reigns) what is next? we muſt ſeek for maintenance.</p>
+            <p n="2">2. We ſee God hath taken care for us already, many hun<g ref="char:EOLhyphen"/>dred years before we were born, in ſetling an eſtate upon us by the Supreme power of the Nation.</p>
+            <p n="3">3. You would have done well, had you lived in the Primi<g ref="char:EOLhyphen"/>tive Churches, when the Magiſtrate was an Heathen, and ſo took no care for the Church but to deſtroy it; but yet even then they were ſo free to maintain the Officers, and Ordinances
+<pb n="11" facs="tcp:114648:10"/>of Chriſt, &amp;c: that they could have Church ſtocks, to maintain all with, the poor, the ſick, ſtrangers; yet then were Biſhops beſides Presbyters; and none of theſe were to meddle with Secular cares, for if they did, they were to be caſt out;
+<note place="margin">
+                  <hi>Can. Apoſt.</hi> 7.80.</note> as the <hi>Canons</hi> then made declare. Had that ſpirit that is now amongſt profeſſors, been in thoſe dayes, it had been very ill with the Church, as it is now, and ſhould be worſe might ſuch Chriſtians have their wills.</p>
+            <p>To gather up all then: ſince Chriſt in his word, hath com<g ref="char:EOLhyphen"/>manded that we ſhould be maintained; ſince the Magiſtrate being Chriſtian, hath long ſince appointed us maintenance, and that ſuch as none can call his own, but the Miniſters, <hi>are we the covetous perſons who require that which is our due by the Law of God and Man,</hi> or <hi>are you the covetous perſons, yea and ſacrilegi<g ref="char:EOLhyphen"/>ous, who deny it?</hi> Certainly if people were not acted by a very Satanicall ſpirit they could not thus open their mouthes, in ſuch baſe language againſt us, as they doe. Why doe you not charge us rather with idleneſſe, if you can, and ſo in that reſpect prove we ought not to be maintained? Why doe you not ſpeak a<g ref="char:EOLhyphen"/>gainſt the Impropriators? You pay tythes to them without ſuch clamours, onely the Miniſters are they who trouble you; but we know whoſe hand is in all this, <hi>Hell</hi> and <hi>Rome</hi> would be glad if your deſignes might prevaile.</p>
+            <p>So much for the <hi>Miniſters maintenance,</hi> which becauſe my Chapter gave me ſo fit an occaſion, I have firſt anſwered.</p>
+            <p>The third part of the Chapter, contains a deſcription of theſe falſe teachers, and adverſaries to <hi>Paul:</hi> 1. He calls them <hi>falſe-Apoſtles.</hi> 2. <hi>Deceitfull Workers.</hi> 3. <hi>They transforme them<g ref="char:EOLhyphen"/>ſelves, &amp;c.</hi> like ſtage-players, they perſonate the Apoſtles of Chriſt.</p>
+            <p>But how can this be? (ſay the admirers of theſe falſe teach<g ref="char:EOLhyphen"/>ers) we cannot believe it. The Apoſtle anſwers, yes this may very eaſily be, and proves it <hi>à majore.</hi> Doe not wonder at this, <hi>for Satan himſelf is transformed into an Angel of light,</hi> which are the words of my Text, and but the antecedent part of the <hi>Enthymeme,</hi> the conſequent part is in the 15 verſe: <hi>Satan is,</hi> ergo <hi>his Miniſters,</hi> &amp;c. <hi>Parnel</hi> ſeverall times in his Book (he entitles, <hi>the Watcher:</hi>) calls <hi>Logick, filthy Logick:</hi> &amp; <hi>pag:</hi> 30.
+<pb n="12" facs="tcp:114648:11"/>tells us what Logick is: <hi>Logick is onely to make a falſe word true.</hi> That is thy maſters Logick indeed <hi>Parnel,</hi> Satans, but the true Logick we own, (for to give you a definition of Logick is in vain) is that whereby the Lights of your maſter Satan, are by the help of the Scripture, diſcovered to be falſe. But why doth thy mouth call that <hi>filthy,</hi> which the <hi>pure</hi> Spirit of God uſeth? In theſe words he uſeth both parts of Logick, <hi>Invention</hi> and <hi>Diſpoſition.</hi> We uſe no Logicke but ſuch as God himſelfe hath made.</p>
+            <p>SATAN,
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Adverſari, odio <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>abere.</note> 
+               <hi>the Adverſary, the hatefull enemy of mankinde,</hi> is transformed: what is he got on the ſtage too, and put on the robe of an <hi>Angel of Light?</hi> Surely a Tragedy we muſt expect.</p>
+            <q>
+               <hi>Light</hi> is taken <hi>properly,</hi> or <hi>improperly.</hi>
+            </q>
+            <p n="1">1. <hi>Properly,</hi> he that hath his ſight knows what we mean when we ſpeak of <hi>light;</hi> to have any Philoſophicall diſcourſe about it, is neither profitable, nor proper to my Text.</p>
+            <p n="2">2. <hi>Improperly,</hi> it is taken ſeveral wayes, I ſhall name but a few and leave the reſt: 1. For the true and ſaving doctrine of the Word, <hi>Prov.</hi> 6.23. <hi>Pſal.</hi> 119.105. 2. For knowledge, <hi>Acts</hi> 26.18. <hi>Iſa.</hi> 60.3. 3. For good works, <hi>Mat.</hi> 5.16. 4. For joy and comfort, <hi>Pſal.</hi> 97.13. 5. For Chriſt, <hi>Iſa.</hi> 42.6. <hi>Ioh.</hi> 8.12. I name no more, I ſhall make uſe of ſome of theſe; the Obſer<g ref="char:EOLhyphen"/>vation is plain:
+<q>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Obſerv: </seg>
+                  </label> Obſerv: <hi>It hath been of old, and it is the practice ſtill of the Prince of darkneſſe, to transforme himſelf into an An<g ref="char:EOLhyphen"/>gel of Light.</hi>
+               </q> Good Angels did uſe to appear lightſome and glorious unto perſons; well, Satan will doe as they doe. <hi>Cor: à Lap:</hi> upon this Text tells us many ſtories of perſons to whom Satan thus ap<g ref="char:EOLhyphen"/>peared in a viſible ſhape, they ſaw him, and converſed with him, as if he had been an Angel of Light, and they diſcerned him by his diſcourſe to be but the black Prince transformed: but this is not the thing <hi>Paul</hi> chiefly means; he hath another way to act, when he went to <hi>Ahabs</hi> prophets, and perſwaded them, it is more than I know that he appeared viſibly to them; ſome <hi>Polititians</hi> will doe much, and yet are little ſeen, I am ſure it is ſo with him: Light uſeth to diſcover things, but never is Satan leſſe ſeen than when he acts as an Angel of Light. This hath
+<pb n="13" facs="tcp:114648:11"/>been his practiſe of old, and I am ſure he hath not layd down his trade now in our dayes, he hath found ſo much ſucceſſe by this policy towards the advancement of his kingdome, that ſo long as Chriſts Church is upon the earth, and hath reſt from perſecution, till he come to be bound up, we muſt look for him in this ſhape.</p>
+            <p>For the doctrinall part I will diſpatch it briefly, becauſe I will make haſt to what I ayme at: I have but two things to open:
+<list>
+                  <item>1. How doth Satan thus transforme himſelfe, how doth he worke, what garments (as the word is taken from Stage players, that put on garments ſutable to the per<g ref="char:EOLhyphen"/>ſon they act) puts he on, that make him appear thus?</item>
+                  <item>2. Whence comes it, that he doth thus?</item>
+               </list> For the firſt:</p>
+            <p n="1">1. By taking the Scriptures, which are the true light, and ma<g ref="char:EOLhyphen"/>king uſe of them, for the doctrine he would have received: if Satan would have any errour take, he muſt not fetch his proof, his light from a Turkiſh. Alcoran, or <hi>Plato,</hi> or <hi>Aristotle,</hi> &amp;c. theſe have no Authority in the Church: no, no, he will bring his Scripture, that which is called <hi>the Lamp and the Light,</hi> to you, is not here Scripture? <hi>Search the Scriptures,</hi> yea ſo he doth, and can bring Chriſt Scripture alſo: if Chriſt anſwer him, and turns him off with a <hi>For it is written,</hi> Mat. 4.4. the very next tentation he will prove with a <hi>For it is written,</hi> ver. 6. He ſeems to be even with Chriſt, and what he quotes is to the pur<g ref="char:EOLhyphen"/>poſe, ſo much as he quotes. Clothes, Bayes, &amp;c. uſe to have ſeales hung upon them, then they paſſe for currant: when he can hang the ſeales of Scripture upon his doctrines, who will now queſtion them? Hath not this been the practiſe of him in all the Hereticks ſince Chriſt his time?
+<note place="margin">
+                  <hi>Credunt ſcriptu<g ref="char:EOLhyphen"/>ris ut credant adverſus ſeri<g ref="char:EOLhyphen"/>pturas,</hi> Ter<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ul. p. 77.</note> had not the Arians Scripture? Hath not the Pope Scripture? Have not the Socinians Scripture? though Reaſon is their Rule, yet hath not <hi>Crellius</hi> at laſt found our Scripture againſt Chriſts Divinity? The leaſt Scripture that I know any errour or practiſe have to prove it ſelfe, is the practiſe of the Separatiſts (with theſe Qua<g ref="char:EOLhyphen"/>kers) who have caſt off the ſoundeſt Miniſters, and all our Churches. It is obſervable how theſe Quakers, who have done
+<pb n="14" facs="tcp:114648:12"/>the moſt miſchief to the Separatiſts and the Anabaptiſts ſocie<g ref="char:EOLhyphen"/>ties doe tell them, <hi>they are in Babylon;</hi> that which they have caſt upon us is now caſt upon them, and will be as eaſily proved againſt them, as they can prove it againſt us.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. When he becomes a Preacher of righteouſneſſe, good works, theſe are called <hi>light, Mat.</hi> 5. ſhould he preach, that men ſhould whore, ſwear, (when not juſtly called to it) lye, ſteale, be drunk, &amp;c. though men love theſe deeds of darkneſs, yet ſhould they hear them taught as things that ought to be done, though their hearts love the actions, yet their judgments would conclude, this were no true light: whence obſerve the next verſe to my Text, they are <hi>transformed as the Miniſters of righteouſneſſe,</hi> not Miniſters of <hi>unrighteouſneſs,</hi> he will hold equipage in many things at leaſt. Thus theſe Quakers, becauſe they taught people, they muſt deale juſtly, doe no body wrong, not lye, &amp;c. Some of the people took it for granted theſe Teach<g ref="char:EOLhyphen"/>ers came from Chriſt, (as they told me) and why doe not <hi>we</hi> come from Chriſt as well, for I hope they have heard the ſame from us and more? (but this was the buſineſſe, we were Prieſts, and divined for money becauſe maintained.)</p>
+            <p n="3">
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. When not onely he will be a Teacher of righteouſneſſe, but alſo of higher degrees of mortification and holineſſe than other men doe teach, and moſt Chriſtians practiſe: not that it is mortification or holineſſe, but it ſeems to be ſo: as the 2 <hi>Coloſſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ult:</hi> that which anſwers the <hi>rule</hi> is holineſſe and morti<g ref="char:EOLhyphen"/>fication. Thus the Fryers and others of that Popiſh generati<g ref="char:EOLhyphen"/>on, by their courſe habit, hard lodging, faſting, abſtaining from marriage,
+<note place="margin">One of this Sect, n<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> me, burnt up tenne pounds worth of <hi>lace,</hi> ground<g ref="char:EOLhyphen"/>ing her act up<g ref="char:EOLhyphen"/>on <hi>Act.</hi> 19.19.</note> &amp;c. <hi>theſe have a ſhew,</hi> ſaith the Apoſtle. Thus the Quakers muſt wear no lace, drink water, (before others, at leaſt one of their teachers did) faſt. <hi>J. Toldervy</hi> tells us, he knew ſome who faſted 30 dayes, <hi>the ſincerity of their diſcourſe a<g ref="char:EOLhyphen"/>gainſt ſin, and ſebriety in their appearance</hi> took with him. Who would ſuſpect a Devil in theſe, to teach things thus croſſe to the fleſh, to deny our naturall appetites? Yes even here he is, for all his ſpecious ſhewes; if it be a thing croſſe to God, to ſet up ſome way of our own, we can then croſſe our ſelves: ſo true is that which bleſſed <hi>Herbert</hi> in another caſe hath ſaid,
+<pb n="15" facs="tcp:114648:12"/>
+               <q>
+                  <l>
+                     <hi>Oh what were man, might he himſelf misplace!</hi>
+                     <note place="margin">
+                        <hi>Temp: Sat Poemi,</hi> p. 1.</note>
+                  </l>
+                  <l>
+                     <hi>Sure to be croſſe, he would ſhift feet and face.</hi>
+                  </l>
+               </q> Chriſt could not be in the Phariſees eſteem a Teacher of righ<g ref="char:EOLhyphen"/>teouſneſſe, <hi>Matth.</hi> 11.19. <hi>He is a man gluttonous, and a wine<g ref="char:EOLhyphen"/>bibber,</hi> &amp;c. God alloweth us to take comfort in the creature after a Chriſtian manner, <hi>Eccleſ.</hi> 5.18, 19. with many Scriptures which ſhew the practiſes of the Saints that they did ſo.</p>
+            <p n="4">
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> 4. When he can begu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſome who may be truly the children of light, hath got ſome of them in; theſe are the <hi>Duck-coyes</hi> to draw in others. Loe! you who follow theſe teachers, who are taken? not the raſcality of the Countrey, as Chriſt had Publi<g ref="char:EOLhyphen"/>cans and ſinners to attend on him, ſometimes, but there are ſuch men, and ſuch women, whom all know to be godly per<g ref="char:EOLhyphen"/>ſons: would they countenance, and follow ſuch if they were were unſound? This hath been alledged to me, as a proof on the Quakers ſide, becauſe ſuch men entertained them: this be<g ref="char:EOLhyphen"/>comes a great ſtumbling block. I ſhall ſpeak a word to this af<g ref="char:EOLhyphen"/>terwards.</p>
+            <p n="5">
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> 5. When he can get into mens conſciences, (a tender thing that muſt not be touched) and plead that for their rule and refuge: for a man to follow the dictates of a true inlightned conſcience, and to have a true tender conſcience is very good; but how often gets he in here, our miſerable dayes have proved ſufficiently. The <hi>Quakers</hi> cry up <hi>conſcience</hi> very much, calling men to attend more to that, than to the <hi>Scriptures,</hi> (as anon I ſhall ſhew) but it is manifeſt that Satan is got into their con<g ref="char:EOLhyphen"/>ſciences.</p>
+            <p n="6">
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> 6. When from true light he will draw dark concluſions, this is not true Logick, for <hi>ex vero nil niſi verum,</hi> but it is ſuch Lo<g ref="char:EOLhyphen"/>gick as he uſeth, hath done of old; <hi>where ſin hath abounded, the grace of God abounded.</hi> What then? thus now; men are not to take up their reſt in the Ordinances, but to look beyond Ordi<g ref="char:EOLhyphen"/>nances, Chriſt is the end of Ordinances, as in Baptiſme, the Supper, &amp;c. What then? hence the Quakers and others tell us they have got Chriſt, (the thing ſignified) what ſhould they doe with ſignes? ſo caſt away the Ordinances: they are grown ſo Spirituall, that they live above theſe Carnall, (as <hi>Naylor</hi> calls the Ordinances) things. There is ſome light in the Antecedent,
+<pb n="16" facs="tcp:114648:13"/>and as much darkneſſe in the Conſequent part, for the conſe<g ref="char:EOLhyphen"/>quence is falſe.</p>
+            <p n="7">
+               <milestone type="tcpmilestone" unit="unspecified" n="7"/> 7. And this ſhall be the laſt: when to the Light of his do<g ref="char:EOLhyphen"/>ctrine, he addeth the Light of comfort, helping the heart to ſpirituall joyes, quiet, and eaſe: this he is as good at, as at the other: it is that which he co<g ref="char:cmbAbbrStroke">̄</g>monly welcomes people withall in<g ref="char:EOLhyphen"/>to his by-paths, when he hath drawn them out of the right way. Some could never finde comfort while they attended upon the Black coats, but <hi>off</hi> and <hi>on</hi> was the beſt they had: ſince they have caſt them off, and gone into their new wayes, now they are ſtabliſhed, comforted, and ſetled for ever. This he can doe two wayes, (but I intend not to enlarge.)</p>
+            <p>Firſt, by withdrawing thoſe tentations, doubts, ſcruples, which he threw before into their mindes, making a ceſſation: as alſo by drawing them off from the quick ſearching power of the word, which coming cloſe, made conſcience to jog them, and trouble their falſe bottomes where they would be reſting.</p>
+            <p n="2">2. By falſe application of the Promiſes, in which this Teacher hath an admirable skill;as he can ſinke the honeſt heart with miſapplying of ſome terrible Texts, ſo he can as well cheer a falſe heart, with the miſapplication of comfortable promiſes: what his skill is in this, I have opened upon other Texts.</p>
+            <p>So much for the firſt Queſtion. The ſecond I will diſpatch alſo in a few heads. <hi>Whence comes it, or why doth he thus trans<g ref="char:EOLhyphen"/>form himſelf?</hi> &amp;c.</p>
+            <p>The Reaſons may be taken, Firſt, from himſelf. Secondly, from God.</p>
+            <p n="1">1. From himſelfe: becauſe this is the way for him to attaine his ends. Could he doe the miſchiefe he doth in the Church where the Candle is burning, Light ſhining, if he did not put on this garb? No verily; this is a notable way for him to lead people into darkneſs, by light: ſhould he come into the Church with his Wolves skin, he might ſcare the Sheep, they would run from him, but not follow him. When I was coming from <hi>Spaine</hi> into <hi>England,</hi> we had two ſheep aboard our ſhip, which were bought that we might have freſh meat by the way: when one of the ſheep was killed, the Sea-men put the skin of the ſheep over the dogge which belonged to the ſhip; the ſheep
+<pb n="17" facs="tcp:114648:13"/>that was left alive, would continually follow the dogge, where the dogge lay down, the ſheep would lye down by him, and would not leave the dogge though the dogge would guerne at the poor ſheep; but thus the ſheep would not doe before. Thus Satan muſt doe, if he will have any ſheep follow him, he muſt get on his ſheeps skin, and ſo he hath done, we ſee the effect. Thus his enmity againſt Chriſt in his kingdome, againſt the comfort and peace of the true members of the Church, againſt the ſoules of people is driven on, <hi>Revel.</hi> 20.3. <hi>Deceive the Na<g ref="char:EOLhyphen"/>tions:</hi> A Deceiver is not the perſon he is taken to be; no more is this Angel of Light, who works by deceit.</p>
+            <p n="2">2. God hath his ends in this: it is not his pleaſure that Satan ſhould ever be an Angel of Light again, but it is his pleaſure (I know no falſe Divinity in the word) that Satan ſhould have li<g ref="char:EOLhyphen"/>berty to transform himſelf into an Angel of Light.</p>
+            <p>Firſt, what terrible ends he had in giving Satan commiſſion to goe to <hi>Ahabs</hi> prophets, <hi>in ſending ſtrong deluſions,</hi> 2 <hi>Theſ.</hi> 2.11. the Texts declare: and certainly there are the ſame reaſons ſtill, when people have lived under light, but they love it not, ſecret rottenneſſe lye at bottome, they love darkneſſe, they ſhall have Lights at laſt, which ſhall ſute their principles, and cer<g ref="char:EOLhyphen"/>tainly lead them to what they love, and that freely.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, he doth by ſuch providences try and make diſco<g ref="char:EOLhyphen"/>very even of his own people, <hi>Deut.</hi> 13.3. <hi>A Prophet riſeth up, giveth a ſigne, and the ſigne comes to paſſe,</hi> who would not fol<g ref="char:EOLhyphen"/>low him? take heed, I doe it to <hi>prove you.</hi> How much miſerable ignorance and vanity of heart have theſe times diſcovered: wherein Satan hath thus acted even in thoſe who gave hopes, and we dare not abſolutely deny but they may belong to God: thoſe who we hoped had been <hi>men,</hi> have diſcovered themſelves to be <hi>children,</hi> yea the weakeſt of children carried about with every winde of doctrine.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, he doth exerciſe his owne who doe ſtand: here is room for patience, watching, ſtudying, prayer: I believe there is more diſcouragement upon the ſpirits of ſound Miniſters and Chriſtians, than there was in thoſe former dayes, which they ſo much prayed againſt and are anſwered. Now our hearts (but why doe I meaſure other mens hearts by my own) doe even
+<pb n="18" facs="tcp:114648:14"/>dye, the Spirit of prayer is gone; and what can we look for, but a ſu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>table reward to our abuſed liberty? More heads I could have added, and enlarged, but I have done with the doctrinall part.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe. </seg>
+               </label> For Uſes I will make but one, for time will not let me handle more. Let people then look to their Lights; be they Lights of doctrine, or of comfort, the Prince of darkneſſe is transformed into an Angel of Light, he walks in the Churches, he that ta<g ref="char:EOLhyphen"/>keth light from him will be ſure to finde it end in darkneſſe; take heed that you be not deceived.</p>
+            <q>
+               <hi>Object.</hi> Deceived? Have we not a word that tells us, <hi>There is an impoſſibility of the Elect being deceived,</hi> Mat. 24.24?</q>
+            <p>
+               <hi>Anſw:</hi> 1. It is true, and are you Elect? doe you know it ſo certainly upon grounds infallible, (not imaginary) that you are one of them? I think we muſt goe backwards, to prove Electi<g ref="char:EOLhyphen"/>on, by the effects which the execution of that Decree produ<g ref="char:EOLhyphen"/>ceth: One which I am ſure is to make the Elect veſſel carefull what doctrines it receiveth.</p>
+            <p n="2">2. An Elect veſſel cannot be deceived ſo as to miſſe of ſal<g ref="char:EOLhyphen"/>vation, yet he may take ſuch courſes and goe in thoſe pathes which in themſelves would lead him to perdition, (after effectu<g ref="char:EOLhyphen"/>all calling I meane) but that the mercy of the Lord fetch him back by repentance out of them.</p>
+            <p n="3">3. An elect Veſſel may be ſo farre deceived, as to diſhonour God exceedingly, grieve the Spirit of God, wound the hearts of the children of God, which ſhould not, nay cannot be ſmall things in the eyes of one who is indeed Elect.</p>
+            <p n="4">4. Though an elect Veſſel cannot be deceived as to ruine his ſoule, yet he may be ſo farre deceived as to lead others alſo into deceitfull pathes, and may be truely an occaſion why they loſe their ſoules. God may ſhow the Elect mercy, and recall them, but not thoſe it may be whom the Elect hath miſlead.</p>
+            <p>And here look to it ye <hi>Separatiſts,</hi> that have caſt off the Mi<g ref="char:EOLhyphen"/>niſtery with ſo much ſcorne, at your dore muſt lye the cauſe why ſo many perſons are turned Quakers; you now riſe up againſt them, (ſome of you) but the people that hear you and them argue, tell us, you are run down, you cannot anſwer them, and no wonder. But who may it thank that ſo many are car<g ref="char:EOLhyphen"/>ried
+<pb n="19" facs="tcp:114648:14"/>away into ſuch vile errours, as your ſelves can judge? onely your ſelves; while the people kept to Gods Inſtitutions, wait<g ref="char:EOLhyphen"/>ing upon Officiall preaching, there was no ſuch doings. Whi<g ref="char:EOLhyphen"/>ther come theſe Quakers? but to Townes where you dwell, and have drawn away the people from the Miniſtery, there theſe Foxes finde their preyes. Had the people kept cloſe to the Mi<g ref="char:EOLhyphen"/>niſtery, they had been preſerved from theſe miſcarriages, and been in the way, God uſeth to ſave by, but now they are gone.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> 
+               <hi>But how ſhall we know this transformed Angel of Light, how diſcern him?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw: </seg>
+               </label> This is a hard thing, becauſe an <hi>Angel of Light:</hi> Angels doe excell man in wiſdome abundantly, whence we may well thinke it is not eaſie to finde him out. When <hi>David</hi> asked the woman of <hi>Tekoah</hi> whether <hi>Joabs</hi> hand was not with, &amp;c. She anſwers, <hi>My Lord</hi> (not <hi>Thou man,</hi> as the Quakers) <hi>is wiſe according to the wiſdome of an Angel of God:</hi> I may ſay, that man had need have wiſdome neer to the wiſdome of thoſe <hi>true</hi> Angels of Light, who would be able to diſcover all the falſhoods of this <hi>transformed</hi> Angel of Light, both in doctrine, and in com<g ref="char:EOLhyphen"/>forts, &amp;c. As for the Light of comfort it is not my purpoſe to touch that here, I intend onely the Light of doctrine: and truly the generation I am now to take in hand, are ſo groſſe, that an ordinary aſſiſtance of Gods Spirit is enough to diſcover theſe, to whom now I ſhall addreſſe my ſelf: and becauſe I am to ſpeak to plain people, and to thoſe onely I intend this Sermon, (becauſe that ſort is ſo miſlead) I ſhall deſire them but to obſerve this:</p>
+            <p>Firſt, I lay down that which I know is the Light of Chriſt: which I call the <hi>Major</hi> Propoſition.</p>
+            <p>Secondly, I lay down the doctrine of the Quakers, as being quite croſſe to that Light, which I call the <hi>Minor</hi> Propoſition: and becauſe I would not wrong the Quakers I write down their own words, out of their own Books, with the page where you may finde them, if you have the books: ſo that when you ſee <hi>Major</hi> or <hi>Minor</hi> you may know what I am proving; if I doe prove the <hi>Major</hi> to be the Light of Chriſt, and the Quakers be croſſe to that Light, then the <hi>Concluſion</hi> is you may be ſure the Quakers light come from Satan transformed &amp;c.</p>
+            <pb n="20" facs="tcp:114648:15"/>
+            <q>
+               <label type="milestone">
+                  <seg type="milestoneunit">Argumēt </seg>1</label> 
+               <p>
+                  <hi>Major.</hi> That light which will not admit of, nor endure the triall, that light is Satans light, and not the light of Chriſt.</p>
+               <p>
+                  <hi>Minor.</hi> But the light of the Quakers will not admit of, nor endure the triall.</p>
+               <p>
+                  <hi>Ergo.</hi> the light of the Quakers is the light of Satan, and not the light of Chriſt.</p>
+            </q>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Major. </seg>
+               </label> The <hi>Major</hi> is thus proved, becauſe the light of Chriſt will ad<g ref="char:EOLhyphen"/>mit of, and endure the triall: as, Take Chriſt himſelf, who is the Light of the world, if the queſtion be, whether he be the Chriſt? he will come to the triall, <hi>Ioh.</hi> 5.39. He had others to bear witneſſe of him, in the verſes before, but he offers himſelf to be tried by the Scriptures, <hi>Search the Scriptures, for they are they which testifie of me.</hi> If you doe finde that I anſwer not thoſe Scriptures which ſpeak of the <hi>Meſſiah,</hi> throw me by: who of his enemies could by the Scripture-triall finde him to be falſe? So <hi>Ioh.</hi> 10.37, 38. <hi>If I doe not the works of my Father, believe me not.</hi> &amp;c. Thus <hi>Mat.</hi> 115. when <hi>Iohn</hi> ſent to him, his anſwer is the proof, <hi>Tell Iohn what you hear and ſee. i. e.</hi> The propheſie in <hi>Iſa.</hi> 35.6. fulfilled; then let <hi>Iohn</hi> (or you rather) judge what I am. Thus <hi>Paul,</hi> 2 <hi>Cor.</hi> 12.12. <hi>Truly the ſignes of an A<g ref="char:EOLhyphen"/>poſtle were wrought among you in all patience, in ſignes, and won<g ref="char:EOLhyphen"/>ders and mighty deeds.</hi> I gave you ſufficient proof that I was an Apoſtle, by all the ſignes of a true Apoſtle. Thus <hi>Iſaiah</hi> 8.20. teach the people how to try all falſe ſpirits, bring them <hi>To the Law and to the Testimony, if they ſpeak not according to this word, it is becauſe there is no light in them.</hi> Let them talke of their Lights what they will, <hi>if they speak not according to this word</hi> (the touchſtone for all ſpirits) <hi>they are but deluſions.</hi>
+            </p>
+            <p>Our <hi>Major</hi> then is true light, according to the Scriptures.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Minor. </seg>
+               </label> The <hi>Minor:</hi> But the light of the Quakers will not admit of, nor endure the triall. This I prove from their own Books.</p>
+            <q>
+               <hi>I. N.</hi> againſt <hi>F. Harris,</hi> p. 10. the Queſtion is,</q>
+            <p>
+               <q rend="margQuotes">Whether that can be the way of God, which hath nothing to warrant it but the bare words and affirmation of men, which they call infallible?</q>
+            </p>
+            <pb n="21" facs="tcp:114648:15"/>
+            <q>To this <hi>I.N.</hi> anſwers:</q>
+            <p>Anſw: <hi>That Spirit of God which is infallible is the ſufficient ground; and to preach, that is the way of God, neither had this ever any other teſtimony, but what is of it ſelfe: For the worlds wiſ<g ref="char:EOLhyphen"/>dome, and carnall naturall man, can neither receive it, nor beare testimony of it, onely ſuch who believe it, &amp;c.</hi> The ſumme is this, the Quakers have the Infallible Spirit, they believe the teſtimo<g ref="char:EOLhyphen"/>ny of it: and this is all the proof.</p>
+            <p>But could not CHRIST, who is the Light of the world, an<g ref="char:EOLhyphen"/>ſwer thus more truely than any Quaker? what need then of <hi>ſearching Scriptures,</hi> or <hi>obſerving his works,</hi> his <hi>infallible Spirit</hi> is proof enough. Could not <hi>Paul</hi> ſay as much, he had the in<g ref="char:EOLhyphen"/>fallible Spirit, and what need of the <hi>ſignes of an Apoſtle?</hi>
+            </p>
+            <p>Could not thoſe Apoſtles, <hi>Rev.</hi> 2.2. whom the Angel of <hi>Epheſus tried,</hi> have ſaid as much, they had the infallible Spirit, and if this were proof enough, how could the Angel try them?</p>
+            <p>
+               <hi>Zedekiah</hi> can ſay, <hi>Thus ſaith the Lord,</hi> 1 King. 22.11. and <hi>ſmite Micaiah</hi> on the cheek, &amp;c. <hi>ver.</hi> 24. <hi>Hananiah</hi> can ſay, <hi>Thus speaketh the Lord of hoſts, the God of Iſrael,</hi> Jer. 28.2. And if their ſaying, <hi>they have the infallible Spirit,</hi> be proof ſufficient, then they are as good Prophets as <hi>Micaiah</hi> or <hi>Ieremiah.</hi>
+            </p>
+            <p>God will not judge mens doctrines or converſations accord<g ref="char:EOLhyphen"/>ing to their infallible ſpirit (which they boaſt of) at the laſt day, but according to his Law, written or not written, (as the Hea<g ref="char:EOLhyphen"/>then had not the Law written, but yet the Law they had) <hi>Rom.</hi> ch. 2.12. then by the ſame Law now try and judge Doctrines and Converſations. The Quakers ſhall be judged by the Law <hi>written.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Concluſion. </seg>
+               </label> Since then the Quakers light will not admit of, nor endure the triall, hence we conclude the Quakers light is the light of Satan, not of Chriſt.</p>
+            <q>
+               <label type="milestone">
+                  <seg type="milestoneunit">Argum: </seg>2</label> 
+               <p>
+                  <hi>Major.</hi> That Light which puts out the Light of Nature is the light of Satan, not of Chriſt.</p>
+               <p>
+                  <hi>Minor.</hi> But the Light of the Quakers puts out the Light of Nature.</p>
+               <p>Therefore the Light of the Quakers is the Light of Satan, not of Chriſt.</p>
+            </q>
+            <pb n="22" facs="tcp:114648:16"/>
+            <p>By the Light of Nature,
+<note place="margin">
+                  <hi>Major</hi> pro<g ref="char:EOLhyphen"/>ved.</note> I mean, that Candle, or inward Law which God ſet up in the heart of all mankinde after the loſſe of his Image in the Pall, checking many ſinnes againſt God, but more againſt men, God having made a fuller and greater reve<g ref="char:EOLhyphen"/>lation to Nature in the things of the ſecond Table, than in the firſt. <hi>Thou ſhalt not kill, thou ſhalt not commit adultery, thou ſhalt not ſteale,</hi> &amp;c. So, <hi>Honour thy father and thy mother;</hi> with<g ref="char:EOLhyphen"/>out this light, no Societies could hold: but Chriſt his Light doth not put out any part of this Light: no, we finde him <hi>Matth</hi> 5. opening theſe Commandements in a larger ſenſe than the Pha<g ref="char:EOLhyphen"/>riſees did.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Minor. </seg>
+               </label> But the Light of the Quakers puts out part of this Light, For, they deny honour to all Superiours; yea, nor will own any diſtinction of Relations.</p>
+            <p>
+               <hi>Honour</hi> is but the expreſſing of the inward reſpect we bear to perſons, by outward ſignes, ſpeeches, and geſtures; without the outward ſignification of it thus, no man can tell who is honour<g ref="char:EOLhyphen"/>ed: and as is the cuſtome of the Nation, ſo we expreſſe this, whether by uncovering the head, bowing the body, &amp;c. But the Quakers deny this. Let a Maſter be in a houſe, with ten other boyes, the ſervant comes in, he ſtirres not his hat to his Maſter, no more than to the boyes; his language to his Maſter is, <hi>Thou man;</hi> to the boy, <hi>Thou boy:</hi> what honour hath the Maſter a<g ref="char:EOLhyphen"/>bove the Boyes?</p>
+            <p>
+               <hi>I. N.</hi> againſt <hi>F. Harris,</hi> pag. 6. <hi>Did ever any Saints uſe any other language but</hi> Thee and Thou, <hi>to God or man?</hi>
+            </p>
+            <p>Yes that they did, better Saints than the <hi>Quakers</hi> are, though they ſay they are perfect.</p>
+            <p>
+               <hi>Paul</hi> was a Saint, <hi>Acts</hi> 26.25. He ſaith not, <hi>Thou Feſtus,</hi> or <hi>Thou man;</hi> but <hi>Moſt noble Feſtus:</hi> ſo, <hi>King Agrippa.</hi>
+            </p>
+            <p>
+               <hi>Daniel</hi> was a Saint, yet when he ſpeaks to <hi>Nebuchadnezzar, Dan.</hi> 2.37. he ſaith, <hi>O King, thou art a King of Kings!</hi>
+            </p>
+            <p>
+               <hi>Hannah</hi> was a Saint; when ſhe ſpeaks to <hi>Eli,</hi> 1 <hi>Sam.</hi> 1.15. no, <hi>My Lord.</hi> ver. 26. <hi>Oh my Lord!</hi> not <hi>Thou man.</hi>
+            </p>
+            <p>
+               <hi>Sarah</hi> was a Saint; 1 <hi>Pet.</hi> 3.6. ſhe called <hi>Abraham, Lord.</hi>
+            </p>
+            <p>
+               <hi>Rachel,</hi> if the Quakers can prove her to be no Saint let them, but ſhe to <hi>Laban, Gen.</hi> 31.35. <hi>My Lord,</hi> and <hi>roſe up;</hi> there is language and geſture.</p>
+            <pb n="23" facs="tcp:114648:16"/>
+            <p>
+               <hi>Solomon</hi> roſe up from his Throne, went to meet his Mother, and bowed himſelf to her, &amp;c. 1 <hi>King.</hi> 2.19. Reade alſo <hi>Prov.</hi> 31.28.</p>
+            <p>
+               <hi>Eliazer</hi> is a good ſervant, yet in his prayer to God, <hi>Gen.</hi> 24.12. <hi>O Lord God of my</hi> Maſter <hi>Abraham.</hi>
+            </p>
+            <p>
+               <hi>Abraham</hi> was a Saint, <hi>Gen</hi> 18.2. when he ſaw <hi>three men,</hi> (as he thought) he bowes himſelf: in <hi>ver:</hi> 3. his language is, <hi>My Lord.</hi> So <hi>Abigail</hi> to <hi>David.</hi>
+            </p>
+            <p>Yea, they will acknowledge no Relations. <hi>I. Toldervy,</hi> when he was of that number, relates of himſelf, pag: 17. that he took his Maſter by the arme or cloake, and bade him ſit down <hi>Wil<g ref="char:EOLhyphen"/>liam Webbe;</hi> not Maſter, nor pulling off the hat. Afterwards ſaith he, <hi>I denyed all relations, from the words of One, He that liveth in the light will ſee no difference.</hi> And in pag 16. he tells, <q>how through his diſobedience (from this principle) his Mo<g ref="char:EOLhyphen"/>ther and many little ones doe ſuffer, having in his charge the redeeming part of an eſtate for his Mother, poſſibly in a ſhort time to have been effected, which he deſerted: and addes, the <hi>workings of this power was ſo predominant, that I refu<g ref="char:EOLhyphen"/>ſed the leaſt acknowledgment, much leſſe performance of duty to any.</hi>
+               </q>
+            </p>
+            <p>
+               <hi>Parnel. Goliahs head</hi> &amp;c. p. 68. ſpeaking about Ornaments, <hi>Moderation in every thing I owne, but what is waſt is for the luſt. both in Kings, Princes, and great Perſonages (as thou calleſt them) but with us there is no reſpect of perſons.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Concluſion. </seg>
+               </label> Since then the Light of the Quakers doe put out this Light of Nature, I conclude, their Light is the Light of Satan, not of Chriſt.</p>
+            <q>
+               <label type="milestone">
+                  <seg type="milestoneunit">Argum: </seg>3</label> 
+               <p>
+                  <hi>Major.</hi> That Light which teacheth men to forſake the Scri<g ref="char:EOLhyphen"/>ptures, ſetting up a Spirit in man which ſhall not be examined by the Scriptures, is the Light<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Satan, not of Chriſt.</p>
+               <p>
+                  <hi>Minor.</hi> But ſuch is the Quakers Light, <hi>Ergo.</hi>
+               </p>
+            </q>
+            <p>The Scriptures are left by God to be our Light and our Rule,
+<note place="margin">
+                  <hi>Major</hi> pro<g ref="char:EOLhyphen"/>ved.</note> 
+               <hi>Prov.</hi> 6.23. <hi>Pſal.</hi> 119.105. The Prophets bid us goe to them, <hi>Iſa.</hi> 8.20. Chriſt bids us ſearch them, <hi>Ioh.</hi> 5.39. The men of
+<pb n="24" facs="tcp:114648:17"/>
+               <hi>Berea. Act.</hi> 17.11. Tried <hi>Paul</hi> by theſe; for <hi>Paul</hi> to tell them of his <hi>infallible Spirit,</hi> and ſo they might believe him without ſearching the Scriptures, he had as good ſay nothing: thoſe men were commended for this action. <hi>Apollos</hi> a mighty man in the Scriptures, <hi>Acts</hi> 18.24. convinced the Jewes by the Scri<g ref="char:EOLhyphen"/>ptures, <hi>ver.</hi> 28.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Minor. </seg>
+               </label> But the Light of the Quakers teach men to forſake the Scriptures, ſetting up a Spirit in man, which ſhall not be examined by the Scriptures.</p>
+            <p>If you aske me before <hi>I</hi> goe to the proof, Doe the Quakers caſt off the Scriptures? I anſwer, when they can finde any thing which they think make againſt us, then they will urge the Scri<g ref="char:EOLhyphen"/>ptures very much;
+<note place="margin">
+                  <hi>Golich.</hi> p. 63.</note> yea, they will run to the <hi>Apocrypha</hi> rather than faile to help themſelves, as <hi>Parnel</hi> to evade the ſtrength of <hi>Levit.</hi> 19 32. runs to Chap. 4 <hi>of the Booke of Wiſdome,</hi> v. 8, 9. but miſtakes. Yea further, when Satan hath gotten ſtrong hold of perſons in their way, yet he will then provoke them to reade the Scriptures much, but caſteth ſtrange gloſſes upon the Scri<g ref="char:EOLhyphen"/>pture,
+<note place="margin">p. 21. 21.</note> as <hi>I. Told:</hi> confeſſeth when he was in that ſnare. Herein he worketh like an Angel of Light. But to ſpeake truely, the Quakers make nothing of the Scriptures, miſerably abuſing that text, 2 <hi>Cor.</hi> 3.6. You ſhall hear them ſpeak:</p>
+            <p n="1">1. <hi>I. Toldervy,</hi> p. 6. reporteth of that Quaker who was the means of his ſeducing; that he, <hi>expreſſed with firme confidence, that ſearching of the Scripture was not the way to finde out the knowledge of Chriſt, but the turning the minde to within:</hi> quite croſſe to Chriſt, why did not Chriſt bid them turn to that?</p>
+            <p n="2">2. <hi>Maſon,</hi> pag 12. in his defence of <hi>Craven:</hi> 
+               <q rend="margQuotes">Thou ſayeſt (to his Opponent) the Old and New Teſtament is thy rule, the ſame was writ for thy imitation.</q> He anſwers, <hi>But did</hi> Paul <hi>or any of the Apoſlles walke by any</hi> literall <hi>rule, or was not their rule a <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>aſure of the Spirit of God committed to every one of them? but it were well if theſe pecuniary Prieſts would walke anſwerable to the precepts left upon record in the Letter.</hi> By this you may ſee what <hi>Maſon</hi> makes of the written Word.</p>
+            <p n="3">3. <hi>Parnel. Watcher,</hi> pag. 8. where you may have a learned diſcourſe how the profeſſion of the Chriſtian Faith &amp; Religion came into <hi>England,</hi> two pages before. Let thoſe who are igno<g ref="char:EOLhyphen"/>rant
+<pb n="25" facs="tcp:114648:17"/>read it. But p. 8. he addes, <hi>and thoſe had the writings of the Prophets and Apoſtles which is called</hi> Scripture, <hi>and ſo was the Keepers of the Letters, and that they took to be their rule to walke by, as they doe now, but knew not that which gave it forth, to lead them unto the life, but had the letter and the forme.</hi> To the ſame purpoſe he ſpeaks, p 40. and in his <hi>Goliah,</hi> p 77.</p>
+            <p n="4">4. <hi>Naylor</hi> againſt <hi>I. Reyner,</hi> p. 3. ſpeaking againſt us, hath theſe words, <hi>Whoſe Law is without, Light without, their Word without, their Church without, Baptiſme, Prayers without; All which we witneſſe to bee within.</hi> Farewell then the written Word.</p>
+            <p>
+               <hi>Naylor, Saluta:</hi> &amp;c. p. 29. tells thoſe that will follow their doctrine, <hi>then you ſhall not have your Light and Life to ſeek in a Book without you,</hi> &amp;c.</p>
+            <p>
+               <hi>Naylor</hi> againſt <hi>F. Harris,</hi> p 9. ſpeaks out, <hi>The Infallible Spi<g ref="char:EOLhyphen"/>rit, by which the Scriptures were given forth is the ſole tryer of ſpirits and doctrines, neither hath it need of any addition where it is: you bring the letter to oppoſe Chriſt, and ſo deny the end of the Scriptures, which is to ſee up the Spirit of God for Judge, and not themſelves,</hi> &amp;c. So then the Scriptures muſt not judge of his Spirit, but your ſpirit is Judge of the Scriptures.</p>
+            <p n="5">5. <hi>Prieſts Ignorance,</hi> p. 4, 5.</p>
+            <p>The ſumme is this, it is all one to them, Scriptures or no Scri<g ref="char:EOLhyphen"/>ptures; for they have the Spirit that did give forth the Scri<g ref="char:EOLhyphen"/>ptures. As for the written Word, you ſee how they contemn it, and condemn thoſe who make it their rule to walke by: when they doe uſe it, it is at the pleaſure of their infallible ſpirit what ſhall be the meaning of it. Here I will give you a taſte of their ſpirit.</p>
+            <p>
+               <hi>Parnel</hi> entitles one of his Books the <hi>Watcher,</hi> and tell us in his Title-page, of the <hi>ſtone,</hi> that <hi>ſtruck</hi> the <hi>feet</hi> of the <hi>Image,</hi> quoting <hi>Dan.</hi> 2.31, 32 &amp;c. By this title we ſhall <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>pect ſome great matter about the Image, p. 21, 22.
+<note place="margin">It is one thing to <hi>allude</hi> to a ſcripture, an<g ref="char:EOLhyphen"/>other thing to <hi>inte<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>pret</hi> it, as doth <hi>Parnel,</hi> here.</note> his ſpirit interprets the Image. <hi>Now the head of the Image which is of gold, and (are) thoſe that have had a light ſhining into them, and have ſeen the emptineſſe of many Forms, and have gotten the thing in their comprehenſion:</hi> (with more of this ſtuffe, which I am loath to tranſcribe) <hi>and the breaſt of the Image which is of ſilver, and
+<pb n="26" facs="tcp:114648:18"/>the thighs of braſſe are the reſt of the ſects and forms, and the legs of the Image which is of iron is the beaſt, and the feet of the Image which is part of iron, part of clay, are the Prieſts and Pha<g ref="char:EOLhyphen"/>riſees, joyned to the powers of the earth, &amp;c.</hi> But <hi>Parnel,</hi> the Spi<g ref="char:EOLhyphen"/>rit in <hi>Daniel</hi> gave another Interpretation of this Image in the ſame Chapter, and we have ſeen it fulfilled in the greateſt part; How dareſt thou then ſet down thy Interpretation thus croſſe to his? Oh that any Chriſtians ſhould admit ſuch a Fellow into their houſes!</p>
+            <p>Let us hear <hi>Deuſbury</hi>'s ſpirit interpreting <hi>Revel.</hi>
+               <note place="margin">pag. 20.</note> 17. <hi>Babylon is within you, the Beaſt is within you, which all the world wonders after</hi> (what a wonder is this,
+<note place="margin">I hear there is a Doctour of Divinity in <hi>London</hi> hath given the ſame interpretation of this <hi>Beaſt,</hi> &amp;c.</note> that all the world ſhould wonder after that which none of the world ever ſaw!) <hi>is your wills: your wiſdome is the great Whore that ſits upon the Beaſt.</hi> But why doe you ſtay here <hi>Deuſbury,</hi> goe on to 9, 10, 11, 12, 16, verſes, and tell us what they are? when you have done, turn to the laſt clauſe of the 19 ver. of the 1 Chap. and 1 ver. of the 4. Chap. there ſee how neatly your ſpirit have interpreted this 17 Chap. John <hi>was ſhown things that were to be hereafter:</hi> but it ſeems there were no ſuch wills, hearts, nor wiſdome before <hi>Iohn,</hi> but all the wickedneſſe of men was to be after <hi>Iohn.</hi> Is this the beſt Interpretation your ſpirit can make?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Concluſion. </seg>
+               </label> Since then the Quakers Light teach men to forſake the Scri<g ref="char:EOLhyphen"/>ptures, and ſet up a ſpirit in man which ſhall not be examined by the Scriptures: Hence I conclude the Quakers Light is the Light of Satan, &amp;c.</p>
+            <p>The Quakers divide the Spirit from the Scriptures.</p>
+            <q>
+               <label type="milestone">
+                  <seg type="milestoneunit">Argum: </seg>4</label> 
+               <p>
+                  <hi>Major.</hi> That Light which maketh the Scripture to croſſe it ſelfe, and that in things known by the Light of Na<g ref="char:EOLhyphen"/>ture, that Light is the light of Satan, not of Chriſt.</p>
+               <p>
+                  <hi>Minor.</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſuch is the Quakers Light. <hi>Ergo.</hi>
+               </p>
+            </q>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Major. </seg>
+               </label> The <hi>Major</hi> is clear: For if the ſame infallible ſpirit gave out all the parts of the Scripture, then to have one Scripture plainly and truely to contradict another, and that in things known by the Light of Nature, would argue high imperfection in the Spirit of God: which is blaſphemy to impute unto him.</p>
+            <pb n="27" facs="tcp:114648:18"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Minor. </seg>
+               </label> But the Quakers Light doe make the Scripture croſſe it ſelf. and that in things known by the Light of Nature.</p>
+            <p>Thus all the Quakers, and <hi>Biſhop</hi> in particular, p. 24. quotes the 2 of <hi>Iames</hi> to overthrow all reſpect to perſons. Then where is the <hi>honouring of Parents, and Superiours,</hi> as in my ſecond Ar<g ref="char:EOLhyphen"/>gument I opened. The very firſt verſe will give the meaning of the Apoſtle, <hi>Have not the Faith of the Lord Ieſus &amp;c. with re<g ref="char:EOLhyphen"/>ſpect of perſons.</hi> If you like the faith of our Lord Jeſus when it is in a rich man, but deſpiſe it in a poor man, this is ſinfull: yet there are good reaſons to be given from the 6 &amp; 7 ver. that the rich man S. <hi>Iames</hi> mentions was not a <hi>believer,</hi> but rather an <hi>Heathen;</hi> and to have a <hi>rich Heathen</hi> preferred before a <hi>poor Believer</hi> is ſinne: however take the 9<hi rend="sup">th</hi>, <hi>if you have respect to perſons,</hi> &amp;c. One way it is true, another way falſe. Take the words <hi>Diviſim,</hi> thus, may I, or muſt I ſhew civill reſpect to a rich man that is much above me, though wicked, (much more if a Magiſtrate, Father, &amp;c. for theſe relations are not founded upon Grace?) yes that you muſt, elſe you tranſgreſſe the Royall Law, <hi>Honour thy Father</hi> &amp;c. But take the words, <hi>Conjunctim,</hi> thus, may I ſhow civil reſpect to rich perſons, &amp;c. and deſpiſe a poor man that hath the Faith of our Lord Jeſus? No, if you doe, you ſinne.</p>
+            <p>God will allow no ſuch reſpect of perſons: thus the Scri<g ref="char:EOLhyphen"/>ptures are preſerved in their harmony, and Natures Light not offended.</p>
+            <p>Take another inſtance, <hi>the glory of the Lord,</hi> &amp;c. <hi>put out by ſuch as the world call Quakers,</hi> p. 10, 11, 12. He takes the words of our Saviour, <hi>Mat.</hi> 5.34. <hi>Swear not at all,</hi> to overthrow all <hi>ſwearing;</hi> there he brings in ſeverall holy men who ſware, <hi>Abraham, Iacob, David,</hi> the Angel, <hi>Rev.</hi> 10. &amp; <hi>Ierem:</hi> 4.2. All that he anſwers is, <hi>but Chriſt ſaith, Swear not at all.</hi>
+            </p>
+            <p>I obſerve he doth not mention <hi>Paul</hi> in 2 <hi>Cor.</hi> 1.23. <hi>I call God for a record upon my ſoule;</hi> and other places where <hi>Paul</hi> ſwears, yet he was after Chriſt; did <hi>Paul,</hi> and the Angel ſin? It is not my purpoſe to enlarge upon this; but a few words, ver. 33. <hi>Thou ſhalt not forſwear thy ſelfe.</hi> 1. <milestone type="tcpmilestone" unit="unspecified" n="1"/> But Chriſt doth not quote the <hi>Deut.</hi> 10.20. &amp; 6.13. where it is joyned to the command of <hi>fearing</hi> God and <hi>ſerving</hi> him, <hi>Thou ſhalt ſweare by his name.</hi>
+               <pb n="28" facs="tcp:114648:19"/>Indeed by the <hi>Earth, Heaven,</hi> or <hi>Ieruſalem,</hi> &amp;c. thou ſhalt not ſweare, no nor by the <hi>name of God</hi> vainely, but when thou art called to it upon juſt and weighty cauſes, then the old com<g ref="char:EOLhyphen"/>mand holds, elſe I muſt deſtroy a part of the Law, and not fulfill it, verſe 17.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. In an oath there is ſome religious worſhip performed to God, declaring him to be the Omniſcient God, and the Puniſher of ſuch as dare ſpeak falſhood; would Chriſt take away this honour from his father?</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, There is as much need of an Oath in regard of the end of an Oath now after Chriſt, as ever there was before Chriſt. 22 <hi>Exod.</hi> 11. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>men doe ſweare,</hi> not men <hi>did</hi> ſweare before Chriſt, but now left it ſince he ſpake thoſe words; there is ſtrife ſtill.</p>
+            <p>Object: <hi>But where there is ſtrife they are without,</hi> p. 12.</p>
+            <list>
+               <item>
+                  <hi>Anſ.</hi> 1. It were well for you if you were <hi>within.</hi>
+               </item>
+               <item>2. There may be difference between thoſe who are in Chriſt, and yet the difference ſo fairly carried as no ſinfull ſtrife, but an Oath will put an end to it.</item>
+               <item>3. But may a Magiſtrate give an Oath to thoſe who are <hi>without?</hi> ſurely no: if that be true, <hi>muſt not ſwear at all.</hi> How then ſhall ſtrife be ended?</item>
+               <item>4. We know the Quakers are not ſo perfect, but ſtrife will be among them.</item>
+            </list>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> Fourthly, The Quakers bid men be guided by their Conſci<g ref="char:EOLhyphen"/>ences the Light of God <hi>within:</hi> but that Light <hi>within,</hi> doth lead men to ſwear in great caſes, to put an end to ſtrife: we finde it ſo among the Heathen, <hi>Abimelech</hi> &amp;c. both before and after Chriſt. The Light of Nature teacheth this, why then doe you oppoſe it?</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> Fifthly, I wonder <hi>Paul</hi> ſhould ſo forget himſelf, to ſinne ſo fearfully in ſwearing as he did: yea, and an Angel alſo: <hi>Iſa.</hi> 65.16. relates to the times after Chriſt.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Concluſion. </seg>
+               </label> Hence then it followes, the Quakers Light is the Light of Satan, not of Chriſt.</p>
+            <q>
+               <label type="milestone">
+                  <seg type="milestoneunit">Argum: </seg>5</label> 
+               <p>
+                  <hi>Major.</hi> That Light which takes men off from that rule which is perfect and cannot erre, and ſends them to be gui<g ref="char:EOLhyphen"/>ded
+<pb n="29" facs="tcp:114648:19"/>by a Light which is imperfect, and may and doth erre, that is the Light of Satan, not the Light of Chriſt.</p>
+               <p>
+                  <hi>Minor.</hi> But ſuch is the Light of the Quakers. <hi>Ergò.</hi>
+               </p>
+            </q>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Major. </seg>
+               </label> The <hi>Major</hi> cannot be denied, for will the Light of Chriſt teach men to leave his own perfect rule, and goe to an imper<g ref="char:EOLhyphen"/>fect one? then if men walk by it, how can they be blamed? he muſt then approve of ſinne.</p>
+            <p>The <hi>Minor</hi> need proof, which is this:</p>
+            <p>That Light which takes men off from the Law of God, his Word; and ſend them to the Light of Conſcience to be guided by it, that Light take men off from a perfect rule, and ſend them to an imperfect one, &amp;c.</p>
+            <p>But thus doe the Quakers. <hi>Ergo.</hi>
+            </p>
+            <p>The Word of God is perfect, <hi>Pſal.</hi> 19.7. 2 <hi>Tim.</hi> 3.16, 17. But the Quakers doe not ſend men to the Word, but to their Con<g ref="char:EOLhyphen"/>ſciences. I grant it were well if men did attend to the dictates of a true illightned Conſcience, and it will be fearfull damna<g ref="char:EOLhyphen"/>tion that they doe not. But this is not all the Quakers mean.</p>
+            <p>But however the Light of Conſcience is (1) but Imperfect. (2) It may erre. It is imperfect: here I will take occaſion to examine the Text, the Quakers make ſo much uſe of, 1. <hi>Joh.</hi> 9. <hi>This was the true light, which lighteth every one that cometh into the world.</hi> But I would faine know, why theſe Quakers con<g ref="char:EOLhyphen"/>found this Light, with Conſcience, as if they were both one, is the Conſcience and Chriſt all one? what folly is this.</p>
+            <p>Secondly, But what doe they mean, that <hi>Chriſt lighteth every one who cometh into the world, with ſaving light,</hi>
+               <note place="margin">
+                  <hi>Fruits of faſt,</hi> pag 23.</note> as <hi>Parnel</hi> his 29 <hi>Querie</hi> intimates? this is manifeſtly falſe.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> For how great a part of the world is there who know no<g ref="char:EOLhyphen"/>thing of Chriſt, Redemption, Juſtification by Chriſts righteouſ<g ref="char:EOLhyphen"/>neſſe, Originall ſinne, Saving faith, &amp;c. They never heard the ſound of theſe things.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> The next Verſe confutes this; for the 10 ver. ſaith, <hi>The world knew him not:</hi> How then doth he lighten every one with ſuch a knowledge, when the Text ſaith plainly <hi>the world knew him not?</hi>
+            </p>
+            <pb n="30" facs="tcp:114648:20"/>
+            <p>What miſerable blind Conſciences doe we find where people have lived under the revelation of Chriſt! I am confident many know not the eſſentials to ſalvation.</p>
+            <p>The meaning then is:</p>
+            <p n="1">1 If we ſpeak of the Light of Reaſon, Underſtanding, ſo Chriſt lighteth every one who cometh into the world.</p>
+            <p n="2">2. Or if we ſpeak of Saving light, <hi>As many, or every one</hi> who hath that ſaving Light, it is Chriſt who illightneth him.</p>
+            <p n="3">3. So we may ſay of Common Light; Chriſt giveth that alſo. As <hi>Pſal.</hi> 136.8. <hi>The Lord raiſeth them that are bowed down.</hi> What every one? we ſee the contrary; but thoſe who are raiſed, it is he who lifts them up, none elſe can.</p>
+            <p>Againe, Conſcience may and doth erre; this is a further proof of the imperfection of it, <hi>Acts</hi> 26.9. <hi>Paul</hi> was there guided by his Conſcience, but it erred. Did not of old, Doe not now all Errors, and Hereſies plead Conſcience, Papiſts, So<g ref="char:EOLhyphen"/>cinians, &amp;c? I doubt not Queen <hi>Mary</hi> would ſay, her Con<g ref="char:EOLhyphen"/>ſcience led her to burn the eminent ſervants of Chriſt.</p>
+            <p>Now let us hear what the Quakers ſay:</p>
+            <p>
+               <hi>Quakers glory,</hi> &amp;c. p. 2. They <hi>exhort the Magiſtrates to let the Prieſts alone, and to receive the Law of God which is perfect according to that in the Conſcience: herein have truth in all ages ſuffered by them who made Lawes contrary to that in the Con<g ref="char:EOLhyphen"/>ſcience.</hi> No matter for the Word then.</p>
+            <p>
+               <hi>Fell.</hi> pag. 5. <hi>The Prieſts of thy high places (Oh</hi> England!) <hi>bear witneſſe before my face againſt thee, which thou haſt ſet up contrary to my will which I have made manifeſt in every mans Conſcience.</hi> No, not every mans, you are not perfect, <hi>Fell.</hi> So once before in the ſame page.</p>
+            <p>
+               <hi>Wooddrove.</hi> p. 15, 16 <hi>Turne your minde within you to the pure Light of Chriſt in your Conſciences, ſee by this light within you, who rule within you.</hi> No matter for the perfect rule without you, to try the light within you, nor to help it.</p>
+            <p>
+               <hi>J. N. againſt Harris,</hi> p. 15. <hi>Make our Light within, to be the Light of the Covenant of Grace.</hi> How many millions of ſoules know nothing of it!</p>
+            <p>
+               <hi>Biſhop</hi> p. 21. <hi>Sink down to that of God in every one of your Con<g ref="char:EOLhyphen"/>ſciences, the light of Chriſt.</hi> In all their Books the Word of God written is made of no account.</p>
+            <pb n="31" facs="tcp:114648:20"/>
+            <p>But while the Quakers thus call on all men, to turn to that within them, <hi>(their Conſciences)</hi> why doe they ſo cry out upon the Magiſtrates for ſending them to <hi>Bridwell</hi> and Priſons, ſince they doe as the Light within them bid them? They practiſe their doctrine, but the Magiſtrates have the Light without them in the perfect rule, to guide Conſcience within them. What a wofull Nation ſhould we have where Conſciences are ſo blinde, erroneous, ſleepy, benummed, and ſome cauterized, if men ſhould lay by the perfect rule, and goe to that? the Prince of darkneſſe would make ſtrange worke.</p>
+            <q>
+               <hi>Conſcientia est regula regulata, non regula regulans</hi>
+            </q>
+            <p>This Argument differs from the third.</p>
+            <q>
+               <label type="milestone">
+                  <seg type="milestoneunit">Argum: </seg>6</label> 
+               <p>
+                  <hi>Major.</hi> That Light which deſtroyeth the Inſtitutions of Chriſt, is the Light of Satan, not of Chriſt.</p>
+               <p>
+                  <hi>Minor.</hi> But the Quakers light deſtroy the Inſtitutions of Chriſt, <hi>[his Ordinances:] Ergo,</hi> it is the light of Satan, not of Chriſt.</p>
+            </q>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Major. </seg>
+               </label> The <hi>Major</hi> is clear, for then Chriſt muſt oppoſe himſelf, if he hath left Ordinances wherein people ſhall attend upon God, till the end of the world, and now have a light to deſtroy them, Chriſt hath changed his minde. 1 <hi>Cor</hi> 11.26. <hi>In the Lords Sup<g ref="char:EOLhyphen"/>per we ſhew the Lords death till he come.</hi> Chriſt is not come yet: <hi>Chriſt bid them eat and drink in remembrance of him:</hi> his words at the Inſtitution of the Lords Supper. What were the Apoſtles onely to remember him, or the <hi>Corinthians,</hi> and thoſe firſt Churches? Muſt not all Churches till he comes ſo remember him? <hi>Mat.</hi> 28.19, 20. <hi>Teach and Baptize, I am with you to the end of the world.</hi> What doe you limit this <hi>teaching</hi> and <hi>bapti<g ref="char:EOLhyphen"/>zing,</hi> to the Apoſtles? They are dead many hundred years ſince, yet the end of the world is not come; how then can theſe words be fulfilled, but in the ordinary Officers, who ſucceed the A<g ref="char:EOLhyphen"/>poſtles, is the rule of Chriſt, <hi>Mat.</hi> 18.15, 16, 17, 18, &amp;c. come to an end? I am ſure there are offences ſtill, and you <hi>perfect</hi> ones are as vile offenders as any, but you have taken a courſe to prevent all diſcipline, for your Church is <hi>within,</hi> ſo ſhut up that none can come at it, no nor believe it.</p>
+            <pb n="32" facs="tcp:114648:21"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Minor. </seg>
+               </label> But the Quakers <hi>light</hi> deſtroy all the Ordinances and Inſti<g ref="char:EOLhyphen"/>tutions of Chriſt.</p>
+            <p>
+               <hi>Parnel: Wat:</hi> p. 8. <hi>They</hi> (who brought the profeſſion of the Chriſtian Faith into <hi>England</hi> firſt) <hi>had two Sacraments, Infants Baptiſme is one, that which they call the Supper of the Lord is an<g ref="char:EOLhyphen"/>other; and they had the carnall bread and wine as the Prieſts and people hath now.</hi> See what eſteem this youth hath of the Ordi<g ref="char:EOLhyphen"/>nances, againſt the <hi>Baptists</hi> he talketh much for their baptizing with water, but I will not tranſcribe his babling.</p>
+            <p>
+               <hi>Naylor</hi> againſt <hi>I. Reyner,</hi> pag. 3. <hi>Church, Prayers, Baptiſme, Singing, we witneſſe to be all within.</hi> None of theſe <hi>outward.</hi>
+            </p>
+            <p>
+               <hi>Naylor, Saluta:</hi> p. 7. <hi>Is not Chriſt the Ordinance</hi> (no that he is not) <hi>and the end of all Ordinances?</hi> I here is truth in this and it overthrows the former, for if he be the <hi>end</hi> of the Ordinance, how can he be the Ordinance it ſelf? are the <hi>means,</hi> the <hi>end?</hi> a few lines after. <hi>Is not he the Sabbath, Baptiſme, Supper?</hi> No that he is not.</p>
+            <p>In p 33. there we have the bottome: he will not deny but theſe <hi>Viſibles</hi> (as he calls them) had their <hi>place</hi> and <hi>time,</hi> but what are they now? He meets with an Objection of ours, which is this, <q rend="margQuotes">They are commands of God, and there is no Scripture for taking them away.</q> This is an Objection indeed: to which he anſwers, <hi>I ſay thoſe carnall things are but commands, as Circumciſon, and the Paſſeover were, and many other, yet were they taken away without letter, by that ſpirit that gave them, when they were abuſed: what letter had</hi> Hezekiah <hi>to take away the brazen Serpent? what ſcripture had</hi> Paul <hi>to cry down Circum<g ref="char:EOLhyphen"/>ciſion</hi> &amp;c. — ſo runs on. But why doth not <hi>Naylor</hi> make up his anſwer fully, applying what he faith to the Objection, thus, <hi>So we the Quakers having the infallible spirit which gave theſe com<g ref="char:EOLhyphen"/>mands, d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e by the ſame, ſeeing you abuſe them, without ſcripture take them away.</hi> Now your anſwer is complete. But</p>
+            <p>
+               <hi>Firſt,</hi> I ſay, thoſe <hi>carnall things</hi> (as you call them) are ſo ſpi<g ref="char:EOLhyphen"/>rituall, that all the <hi>perfection</hi> the Quakers brag of, will not be ſufficient to perform one of them in the holy manner the <hi>letter</hi> (as you call the <hi>Word</hi>) requires.</p>
+            <p>
+               <hi>Secondly,</hi> You talke of the <hi>Infallible ſpirit,</hi> but you have not given us the <hi>ſignes</hi> of it as <hi>Paul</hi> did, 2 <hi>Cor.</hi> 12.12. nay the <hi>Sa<g ref="char:EOLhyphen"/>tanicall
+<pb n="33" facs="tcp:114648:21"/>ſpirit</hi> by which you are acted, hath not given you ſo much wit, to ca<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry your ſelves cunningly, but you doe ſo mani<g ref="char:EOLhyphen"/>feſtly croſſe Chriſt and the Apoſtles, that people muſt throw away their Bibles, and naturall Light before they can believe you.</p>
+            <p>
+               <hi>Thirdly,</hi> You miſtake in the brazen Serpent, for it was not ordained as a means of worſhip in the Church, but onely for the time while Serpents ſtung them in the Wilderneſſe, they were to look to it, typifying Chriſt; but when they were paſt Serpents in <hi>Canaan</hi> there was no uſe of it: yet <hi>Hezekiah</hi> wan<g ref="char:EOLhyphen"/>ted no meanes whereby he might certainly know the minde of God.</p>
+            <p>
+               <hi>Fourthly,</hi> The worſhip then inſtituted was not taken away, becauſe <hi>abuſed;</hi> but becauſe the Ceremoniall part was <hi>ful<g ref="char:EOLhyphen"/>filled.</hi>
+            </p>
+            <p>
+               <hi>Fiftly,</hi> Jeſus Chriſt the Lord of the Church may inſtitute what means of worſhip he pleaſeth, his Apoſtles did converſe with him fourty dayes after his reſurrection, <hi>Acts</hi> 1.3 <hi>speak<g ref="char:EOLhyphen"/>ing of the things pertaining to the kingdome of God:</hi> They had order what to doe; but I hardly think the Quakers were there then with him, and heard that doctrine, they teach us.</p>
+            <p>
+               <hi>Sixtly,</hi> Then the Spirit of God teach us to deny God that which he hath had ſince the world began, <hi>viz:</hi> Externall wor<g ref="char:EOLhyphen"/>ſhip: for <hi>prayer, ſacrifices,</hi> and the <hi>teaching of the family</hi> by the Father of the family, theſe parts of worſhip we finde at the be<g ref="char:EOLhyphen"/>ginning: after that, more. But now God muſt have none at all; how ſhall we know there is a God in the world if we take away his worſhip?</p>
+            <p>
+               <hi>Seventhly,</hi> Chriſt muſt then be a great deſtroyer of the Law, and not a fulfiller, <hi>Mat.</hi> 5.17. for he muſt quite blot out the ſecond Commandment; as the fourth, and fifth, by theſe Qua<g ref="char:EOLhyphen"/>kers.</p>
+            <p>
+               <hi>Eighthly,</hi> The right performing of the worſhip of God, will coſt pains, and exerciſe of graces; but the ſpirit in the Quakers have taken them off from that burden.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Concluſion. </seg>
+               </label> Since then the Quakers Light deſtroy the Ordinances of Chriſt, hence I conclude, their Light is the light of Satan, not of Chriſt.</p>
+            <pb n="34" facs="tcp:114648:22"/>
+            <q>
+               <label type="milestone">
+                  <seg type="milestoneunit">Argum: </seg>7</label> 
+               <p>
+                  <hi>Major.</hi> That Light denyeth a great work of Chriſt in the hearts of them who believe in him, that is the light of Satan, not of Chriſt.</p>
+               <p>
+                  <hi>Minor.</hi> But ſo doe the Quakers light: <hi>Ergo.</hi>
+               </p>
+            </q>
+            <p>The <hi>Major,</hi> is ſo clear, that it needs no proof; for to deny a a ſaving work, a great part of his redemption, this cannot come from Chriſt.</p>
+            <p>
+               <hi>Minor.</hi> But the Quakers light denyeth a great worke of Chriſt in the hearts of them, who believe: I mean ſuch a work as muſt neceſſarily be in all ſuch: <hi>that is,</hi> a worke of <hi>inherent holineſſe, the new creature diſtinct from Chriſt's perſon, and from his imputed righteouſneſſe to our Juſtification:</hi> The Quakers in theſe Books I have, have ſpoken confuſedly, and covertly, yet this muſt be their doctrine, or ſome other notion, <hi>being Chriſt<g ref="char:EOLhyphen"/>ed with Chriſt, Godded with God;</hi> which I verily think they ayme at.</p>
+            <p>
+               <hi>Naylor, Saluta:</hi> p. 20. hath theſe words, <hi>But ſay you, this is that righteouſneſſe we believe in, and by which we are juſtified, by that blood which was ſhed at Jeruſalem, and by that obedience that was in him, and by that holineſſe: but that the want of his righ<g ref="char:EOLhyphen"/>teouſneſſe in us, or that want of Chriſt, or his blood in us can hin<g ref="char:EOLhyphen"/>der our Juſtification, that we deny, and look upon it as hereſie, it is Chriſt without us that hath ſatisfied for ſinne, his righteouſ<g ref="char:EOLhyphen"/>neſſe, faith, patience, love, obedience, &amp;c. its theſe without us that whoever believes in ſhall be ſaved, and by this faith the un<g ref="char:EOLhyphen"/>godly is juſtified.</hi>
+            </p>
+            <p>Pag. 23. <hi>We can doe nothing, neither doe we deſire to doe any thing, yet can we doe all things that he wills, through him that is in us.</hi>
+            </p>
+            <p>Pag. 2. <hi>While you live, ſinne lives; and if we ſay we have no ſinne we deceive our ſelves (this is well) but where he alone lives, there is no ſinne,</hi> &amp;c.</p>
+            <p>I deny not, but we are juſtified, by the righteouſneſſe, ſatiſ<g ref="char:EOLhyphen"/>faction of Chriſt without us, as oppoſed to <hi>Inherency</hi> in us. But I utterly deny that God ever imputes that righteouſneſſe <hi>to</hi> us, but withall he works inherent righteouſneſſe <hi>in</hi> us, ſo as no man
+<pb n="35" facs="tcp:114648:22"/>can be in a ſtate of Juſtification, or ſhall ever ſee God, who hath not this inherent work of holineſſe <hi>in</hi> him, <hi>Heb.</hi> 12.14.</p>
+            <p>I deny alſo, that a perſon whom the Lord <hi>actually</hi> juſtifieth is an ungodly perſon; in that inſtant its true, he is <hi>ungodly,</hi> if you compare him with the Covenant of works, he is a tranſgreſſor of it, which is the ſcope of the Apoſtle, in the <hi>Rom.</hi> 3.4.
+<note place="margin">Rom. 3.4.</note> To cut all men off from ſeeking life in that Covenant, and to bring them to the righteouſneſſe of Chriſt: but look on him in refe<g ref="char:EOLhyphen"/>rence to the Covenant of grace, he is now a <hi>believer;</hi> or elſe he cannot be juſtified, and ſuch a believer as hath received Chriſt to Union, and now truſts to Chriſt for Communion of benefits, whereof juſtification is one. He that prates of his juſti<g ref="char:EOLhyphen"/>fication before this Faith, he doth but prate of that which he ſhall never finde. That abſurd notion of faith juſtifying onely <hi>Declarative,</hi> I would have oppoſed, had this place been conve<g ref="char:EOLhyphen"/>nient.</p>
+            <p>I affirme alſo, that the work of inherent holineſſe which maketh us new Creatures, is a diſtinct thing from Chriſt his perſon; though among our <hi>New-England</hi> notions, this was received when the errours raged there, that Chriſt was the new Creature; but for the 2 <hi>Cor.</hi> 5.17. they made miſerable Grammar of the verſe, undertaking to be the Interpreters of the Originall, read it thus, <hi>if any man be in Christ the new Creature,</hi> and thus indeed Chriſt being perfect, no wonder though the Quakers are perfect; for there is nothing in them but Chriſt. And thus we ſee the meaning of that which we have ſo wondered at, that men and women, who could not tell how to live honeſtly among men, keep promiſes, keep from pilfe<g ref="char:EOLhyphen"/>ring. deale juſtly (no nor can ſcarce doe it at this day) ſince theſe Quakers came are on a ſudden mounted aloft, and tell o<g ref="char:EOLhyphen"/>thers they are perfect. No wonder, for if Chriſt be the new Creature, the new Creature then cannot grow, for Chriſt can<g ref="char:EOLhyphen"/>not be more perfect then he is, I affirme alſo that thoſe <hi>who deſine to doe nothing,</hi> as ſaith <hi>Naylor,</hi> they are not in Chriſt, (if we ſpeak of <hi>adulti) Rom.</hi> 7.21. and their wills are renewed.</p>
+            <p>I know not what to make of that phraſe, <hi>While you live, ſin live,</hi> to take it in our ſenſe, they cry out upon us.</p>
+            <p>
+               <hi>Maſon</hi> p. 11. reproves Mr. <hi>Scortrith</hi> with ſcorne, becauſe
+<pb n="36" facs="tcp:114648:23"/>he affirmed that <hi>God and a Saint are not one, Chriſt and a Saint are not one,</hi> then quotes againſt him, <hi>Joh.</hi> 17.11. (which is no<g ref="char:EOLhyphen"/>thing to his purpoſe) 21.22. and 2 <hi>Cor.</hi> 6.16. 1 <hi>Cor</hi> 6.17. <hi>yet</hi> (ſaith he) <hi>is there not a reall union between them, is not Chriſt the head of the body,</hi> &amp;c? I believe Mr. <hi>Scortrith</hi> did never deny this, for it is the common received truth among Divines, that the union is <hi>reall,</hi> that is, it is not <hi>Ens rationis,</hi> 'tis not an imagi<g ref="char:EOLhyphen"/>nary thing, and that Chriſt is the head <hi>Mysticè,</hi> who denyes it? Dr.
+<note n="*" place="margin">
+                  <hi>Saints per<g ref="char:EOLhyphen"/>ſev:</hi> p. 189.</note> 
+               <hi>Owen</hi> hath gone as farre as a man can goe with ſafety (I think) in this point; and yet not ſpoken more then ſome others have before him, both <hi>Bucanus,</hi> and <hi>Polanus:</hi> ſo that it was another kinde of union which Mr. <hi>Scortrith</hi> denyed, and with him alſo, all ſober men.</p>
+            <p>
+               <hi>Parnel. fruits fast.</hi> p. 25. propounds theſe two queries to Prieſt <hi>Stalham, Sparrow,</hi> and among the reſt 48. <hi>What is your owne righteouſneſſe, and what is the righteouſneſſe of Chriſt, and how doe you diſtinguiſh between them?</hi> What a hard queſtion is this to anſwer, in a ſound way alſo? but then 49. <hi>Whether he that is juſtified by the righteouſneſſe of Chriſt, doth not dwell in it, and it in him, and whether he that dwells in the righteouſneſſe of Christ doth ſin, yea or nay?</hi> Is this the way whereby you come to be ſo free from ſin? You ſay below, <hi>theſe things (i. e.</hi> the 61 Queries) <hi>I doe not aske as if I knew them not, but for the ſatis<g ref="char:EOLhyphen"/>faction of the ſimple,</hi> &amp;c. The <hi>ſimple</hi> are beholden to you, but had not you been both <hi>proud</hi> and <hi>ſimple</hi> you would not have moved ſuch queries as you have done. But I anſwer: <hi>for the righteouſneſſe of Chriſt dwelling,</hi> &amp;c. I deny that the righteouſ<g ref="char:EOLhyphen"/>neſſe of Chriſt whereby a believer is juſtified doth dwell in him:
+<note place="margin">
+                  <hi>Saluta:</hi> &amp;c. p. 20.</note> your fellow Quaker <hi>Naylor</hi> is againſt you: (unleſſe you carry this ſecretly, that we are Chriſted with Chriſt, then ſomething you may gather) by <hi>dwelling,</hi> I mean it is not <hi>in<g ref="char:EOLhyphen"/>herent</hi> in us. <hi>Bellarmine</hi> makes difference between the ſatisfa<g ref="char:EOLhyphen"/>ction of Chriſt, by which we are pardoned, (this he will not ad<g ref="char:EOLhyphen"/>mit to be in us) and that righteouſneſſe by which we are juſtifi<g ref="char:EOLhyphen"/>ed; this he ſaith is inherent in us. But I dare not accuſe the Quakers of being guilty of ſo much knowledge, and I preſume you doe not aime at his doctrine.</p>
+            <p>For the other phraſe, <hi>The juſtified perſon dwelling in the righ<g ref="char:EOLhyphen"/>teouſneſſe
+<pb n="37" facs="tcp:114648:23"/>of Chriſt, and ſo not ſinning;</hi> I confeſſe my ſimplicity cannot underſtand this, unleſſe it had more ſenſe in it. I have read 2 <hi>Pet.</hi> 3.13. <hi>wherein dwelleth righteouſneſſe,</hi> but I have not read, where a Beleever dwels in Chriſts righteouſneſſe, nor of ſo dwelling as not to ſin.</p>
+            <q>
+               <label type="milestone">
+                  <seg type="milestoneunit">Argum: </seg>8</label> 
+               <p>
+                  <hi>Major.</hi> That light which teach men to omit their duty to God, that light is the light of Satan, not of Chriſt.</p>
+               <p>
+                  <hi>Minor.</hi> But ſo doe the light of the Quakers. <hi>Ergo.</hi>
+               </p>
+            </q>
+            <p>The <hi>Major</hi> need no proof, Chriſt doth not teach men to o<g ref="char:EOLhyphen"/>mit their duty, then he is a teacher of unrighteouſneſſe.</p>
+            <p>
+               <hi>Minor.</hi> But the Quakers light teach men to omit their duty to God, <hi>viz.</hi> Prayer.</p>
+            <p>
+               <hi>Parnel Watch,</hi> p 46. ſpeaking againſt one, <hi>Then thou went on with thy deluding spirit, preſſing the wicked to pray, whereas Prov.</hi> 15.8. the prayers of the wicked are abominable; <hi>and thus thou didſt that which was ab<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>minable in the ſight of God, in pray<g ref="char:EOLhyphen"/>ing thy ſelfe, and teaching the wicked to pray.</hi>
+            </p>
+            <p>
+               <hi>Parnel Gol:</hi> p. 15. <hi>The Apoſtles did not teach the wicked to pray.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> 1. It is true, while men goe on in a courſe of wick<g ref="char:EOLhyphen"/>edneſſe, and are reſolved to doe ſo, yet in the meane time think to heale themſelves, and make God amends by their Prayers, the Lord ſaith, he abominates their Prayers: Yet this denyeth not Prayer to be their duty, to acknowledge their Lord and Creator, upon whom they depend.</p>
+            <p n="2">2. Why doe the Quakers ſo much call all people to ſinke downe to the light of God in the Conſcience [as before] yet now exclaime upon men for being guided by it? the light of God in the Conſcience doth teach men to pray, bids them pray: ſhould they not obey their Conſcience? 1 <hi>Jonah</hi> 6.14. the Con<g ref="char:EOLhyphen"/>ſcience of the Heathens did dictate Prayer.</p>
+            <p n="3">3. Muſt not the wicked pray becauſe they ſin, and ſo it is a<g ref="char:EOLhyphen"/>bominable? then they muſt not plow neither, for that alſo is ſinne. <hi>Prov.</hi> 21.4. but all ſin is abominable to God: what then, muſt not the wicked plow? I hope then the Quakers will keep their families.</p>
+            <pb n="38" facs="tcp:114648:24"/>
+            <p n="4">4. Was <hi>Peter</hi> no Apoſtle, was not <hi>Simon Magus</hi> wicked? read <hi>Acts</hi> 8.22. The Apoſtle <hi>lames,</hi> 5 <hi>Chap.</hi> 13. <hi>Is any among you afflicted? Let him pray.</hi> But ſuppoſe a wicked man (though I love Charity well, yet I believe there might be one or two a<g ref="char:EOLhyphen"/>mong thoſe Tribes he writes to) what muſt he doe? Surely, <hi>Any</hi> will reach him. If he may pray when afflicted, why not at at other times: obſerve the Epiſtle, and you will finde there were ſome wicked among them.</p>
+            <p n="5">5. What mean thoſe words, <hi>Ier.</hi> 10.25. <hi>Fury on families that call not on his name.</hi>
+            </p>
+            <p>
+               <hi>Naylor Saluta.</hi> p. 19. to the queſtion, muſt we not pray? Anſwers, <hi>I ſay waite for the ſpirit of prayer.</hi> But where learn you this? This is your ſpirits Divinity, ſuppoſe the Spirit comes not this month or yeare? Then it ſeems the duty muſt lye by: for God to give his Spirit is his free act, for me to pray is my duty, as a Creature; let me doe my duty, and waite there for the free Spirit of God.</p>
+            <p>p. 20 <hi>Your times are in your owne hands:</hi> (a little after) <hi>but the times of Sons and Daughters are not in their hands,</hi> no, it's true, if you mean thoſe times <hi>David</hi> ſpeaks of, <hi>Pſal.</hi> 31.15. But the times of prayer you ſpeak of. <hi>Daniel</hi> was a Son, yet he <hi>Chap.</hi> 6.10. <hi>three times a day prayed.</hi> ſo <hi>David,</hi> and others had their times. But for times to ſin we abhorre them, we hope, more then you.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Concluſion. </seg>
+               </label> Since then the Quakers Light teach people to omit prayer, I conclude, their light is of Satan, <hi>&amp;c.</hi>
+            </p>
+            <q>
+               <label type="milestone">
+                  <seg type="milestoneunit">Argum: </seg>9</label> 
+               <p>
+                  <hi>Major.</hi> That light which teacheth men to ſay, they have no ſin, that light is the light of Satan, not of Chriſt.</p>
+               <p>
+                  <hi>Minor.</hi> But ſo doe the Quakers light, <hi>Ergo.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>Major.</hi> Chriſt his Light teach us that for the Dominion of ſin, all his people are freed from it, <hi>Rom.</hi> 7.12.14 but he that ſaith he hath not the being of ſin, and doth not ſin, <hi>the truth is not in him,</hi> 1 <hi>Ioh.</hi> 1.8.</p>
+            <p>
+               <hi>Iob</hi> had more holineſſe in him then all the Quakers, God ſaith of him that he was <hi>perfect,</hi> ch. 1. i. e. <hi>Evangelically,</hi> not <hi>Legally,</hi> for <hi>Chap.</hi> 9.20. he ſpeak other language, ſo 30. &amp; 31. verſes.</p>
+            <pb n="39" facs="tcp:114648:24"/>
+            <p>
+               <hi>Iob</hi> 14.4. 1 <hi>Kings</hi> 8.46. <hi>Eccleſ.</hi> 7.20. <hi>Prov.</hi> 20.9. <hi>Iam.</hi> 3.2. a relative perfection in our juſtification, an inherent perfection of parts, in our Sanctification, a ſtriving after perfection in degrees; ſuch perfection we own, i. e. <hi>uprightneſſe;</hi> but for the Quakers perfection let them keep it: <hi>Paul</hi> found a body of death, <hi>Rom.</hi> 7. and ſaith he was not perfect, <hi>Phil.</hi> 3.12. Where ſinne hath no dominion, that man is perfect, i.e. <hi>Evangelically, Pſal.</hi> 19.13. the word is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>I ſhall be perfect,</hi> or <hi>complete, upright.</hi> yet ſuch an one may have ſinnes, ver. 12. ſo not perfect <hi>legally. Who knowes his errours?</hi> not <hi>David,</hi> but the <hi>Qua<g ref="char:EOLhyphen"/>kers.</hi>
+            </p>
+            <q>
+               <hi>Minor.</hi> But the Quakers light teach people to ſay they have no ſin, they are perfect (not in our ſenſe.)</q>
+            <p>This their books are ſo full of that it were tedious to tran<g ref="char:EOLhyphen"/>ſcribe. <hi>Maſon</hi> ſpends the ſeven firſt pages of his book about this, quoting ſome texts for it where perfection is mentioned, (which we owne in a ſound ſenſe) then railing upon the Prieſts, and damning them to hell becauſe they croſſe them.</p>
+            <p>
+               <hi>Maſon.</hi> p. 3. makes great uſe of <hi>Epheſ.</hi> 4.12. &amp;c. <hi>perfecting of the Saints,</hi> &amp;c. thus he argues, <hi>if the Saints could not be per<g ref="char:EOLhyphen"/>fect in this life, were not theſe Apoſtles and Paſtors, put upon a needleſſe imployment? Can the Priests of the nation prove that Saints are toſſed in heaven? Were</hi> Englands <hi>blinde watch-men commiſſionated from Chriſt, they would not prate thus againſt per<g ref="char:EOLhyphen"/>fection.</hi>
+            </p>
+            <p>But if <hi>Maſon</hi> had well underſtood the Originall word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> here rendered <hi>perfecting,</hi> he might have known that the word is tranſlated by others, <hi>For the gathering together of Saints,</hi> by others, the <hi>Coagmentation, joyning, gluing together of Saints,</hi> to Chriſt by <hi>faith,</hi> to the body by <hi>love:</hi> not noting the per<g ref="char:EOLhyphen"/>fection of the growth, but ſuch a perfection, as when a body hath all its members. He addes preſently <hi>for the Edifying of the body of Chriſt.</hi> What need of <hi>Edifying</hi> when there is <hi>compleat per<g ref="char:EOLhyphen"/>fection,</hi> ſo that till this Myſticall body have all its Members, the Miniſtery muſt laſt. When a body hath all its Members, none wanting, broken, or out of joynt, yet then thoſe Members muſt grow.</p>
+            <p>If he will fetch his ſtrength from the 13. v. a <hi>perfect man,</hi> &amp;c.
+<pb n="40" facs="tcp:114648:25"/>and that perfect man, to be meant of every ſingular believer, to what I have ſaid before about perfection, I adde, we acknow<g ref="char:EOLhyphen"/>ledge there are thouſands (through mercy) of perfect men, in <hi>England,</hi> as <hi>perfect</hi> is oppoſed to <hi>children toſſed to and fro</hi> in ver. 14. ſaints who ſtand ſo unmovable, and firme, that all the windes of <hi>Quakers</hi> and other <hi>Hereticks</hi> doctrines cannot ſhake them here upon earth.</p>
+            <p>But by the former words, <hi>Till we all come or meet &amp;c.</hi> he ſeems to ſpeak of the whole myſticall body, which ſhall be a perfect man, when they meet <hi>All</hi> in the unity &amp;c. and of <hi>the knowledge of the Son of God:</hi> But I doe not believe any man hath that perfect knowledge of him, in this life, which they ſhall have.</p>
+            <p>There are abundance of theſe true members, who dye before they are perfect in inherent holineſſe I am ſure, or elſe you muſt cut off moſt of the members (nay all) which your friend <hi>Caste<g ref="char:EOLhyphen"/>lio</hi> in this point dare not doe, but hath ſo much charity to ſay, that ſuch ſhall be ſaved: but there are no Paſtours in heaven to perfect them: then the Paſtours worke is not needleſſe, though the members come not to the perfect growth in this life. Nay the need of Paſtours argue imperfection; for when perfection is come, there will be no need of theſe: what need of Nurſes, Tutors, School-maſters, &amp;c. when perfection is at<g ref="char:EOLhyphen"/>tained? More may be ſaid, but I forbear.</p>
+            <p>Another Text the Quakers uſe is <hi>Phil</hi> 3.15. But what ſay they to the 12 ver. <hi>Paul</hi> ſaith he was not perfect. Here ap<g ref="char:EOLhyphen"/>pears a contradiction: But, <hi>Perfect men</hi> may be conſidered two waies:</p>
+            <p n="1">1. Either with reference to the <hi>perfect rule;</hi> ſo no man is in<g ref="char:EOLhyphen"/>herently, and legally perfect.</p>
+            <p>Or 2. <hi>Comparatively,</hi> with other men; thus ſome are but young ſcholars, they underſtand not the fulneſſe of the righte<g ref="char:EOLhyphen"/>ouſneſſe of Chriſt, &amp;c. but are troubled about Circumciſion, <hi>v.</hi> 3. and other Jewiſh matters; others are more growne in the knowledge of Chriſt, and his grace, more ſolid in judgement, who are perfect in compariſon of others, and this perfection he means, as the next verſe, and the obſervation of the Chapter proves; thus ſome <hi>little children, young men, Fathers,</hi> 1 Joh. 2.13.</p>
+            <pb n="41" facs="tcp:114648:25"/>
+            <p>Some think he calls the falſe Teachers, the <hi>perfect men,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> &amp; <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Zanch: in loc.</hi>
+               </note> ſpeak<g ref="char:EOLhyphen"/>ing <hi>ironically,</hi> and nipping them for their boaſting.</p>
+            <p>
+               <hi>Muſculus</hi> upon this Text tells us of a debate he had with a <hi>Franciſcan,</hi> who with great impudencie boaſted he was <hi>perfect:</hi> but ſaith of him, <hi>he did ſo rage, that he ſeemed perfect in fury and madneſſe:</hi> the ſame is evident in theſe <hi>Quakers,</hi> when croſſed; for fierce countenances, fury, raging, railing, I have not read nor ſeen the like, of ſuch as talke of perfection. By what I have ſaid, you may anſwer all they alledge for perfection.</p>
+            <p>Thus alſo <hi>Prieſts ignorance,</hi> p. 4. <hi>Parnel. fr: faſt:</hi> p. 24. But ſtay <hi>Parnel,</hi> are you perfect too? have you no ſinne? doe you ſo dwell in the righteouſneſſe of Chriſt? I omit thy abominable pride which thou manifeſteſt in thy Books; with other ſinnes eaſily to be proved. I onely turn thee to 1 <hi>Pet.</hi> 2.23. <hi>When Chriſt was reviled he reviled not againe.</hi> Doe you ſhow this Spi<g ref="char:EOLhyphen"/>rit of Chriſt? Let any reade your <hi>Reply</hi> (as you call it) to Dr. <hi>Draton,</hi> where you have cut off <hi>Goliahs</hi> head, then judge: as you have printed your adverſary, yet any one ſhall ſee what he ſpeaks is with <hi>reaſon, ſcripture,</hi> and <hi>ſobriety;</hi> but what is your return to a man of his quality and yeers? <hi>Impudent lyar, blinde ſot, blaſphemer, lyar, hypocrite, deceiver,</hi> the book is ſtuffed with this language.</p>
+            <p>Come to the Civil power, and ſee how your infallible ſpirit carry you there. <hi>Fru: faſt.</hi> p. 10. in your reply to your <hi>Mitti<g ref="char:EOLhyphen"/>mus</hi> (as you call it) thus you ſpeak to the four Juſtices, naming them. <hi>In the Mittimus you finde ſeverall lyes, ſlanders,</hi> &amp;c. <hi>I ſhall reply to the ſame, and return the venome upon your venomous ſpirits,</hi> &amp;c. This is the perfect man, without ſinne; ſuch alſo is <hi>Naylor</hi> and <hi>Maſon.</hi> I will give you leave to brag of your per<g ref="char:EOLhyphen"/>fection: but reade <hi>Jude</hi> 8.9. 2 <hi>Pet.</hi> 2.10.
+<label type="milestone">
+                  <seg type="milestoneunit">Concluſon. </seg>
+               </label> I doe conclude both from your doctrine and your practice that your light is from Satan.</p>
+            <q>
+               <label type="milestone">
+                  <seg type="milestoneunit">Argum: </seg>10</label> 
+               <p>
+                  <hi>Major.</hi> That light which teacheth people to revile, and throw filth upon the true Miniſters, and true Churches of Chriſt, that is the light of Satan, not of Chriſt.</p>
+               <p>
+                  <hi>Minor.</hi> But thus doe the Quakers light teach people, &amp;c.</p>
+            </q>
+            <pb n="42" facs="tcp:114648:26"/>
+            <p>For the <hi>Major</hi> none will queſtion that, 1 <hi>Tim.</hi> 5.17. <hi>There is double honour allowed the labourers in word and doctrine:</hi> For the Churches, they bear ſuch an honourable relation to Chriſt, that ſure Chriſt will not thus teach people to revile them, 2 <hi>Cor.</hi> 11.2.</p>
+            <q>
+               <hi>Minor.</hi> But the light of the Quakers teach people to revile and throw filth on the true Miniſters and Churches of Chriſt; even all in <hi>England,</hi> and the world that differ from them.</q>
+            <p>This they avoid, by denying with greateſt abhorrency that any of the Miniſters are ſuch, or the Churches.</p>
+            <p>
+               <hi>Prieſts igno:</hi> p. 2. <hi>Wood<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d</hi> p. 16. but eſpecially <hi>Parnel</hi> twice in his <hi>Fr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>faſt,</hi> tells us of the <hi>Church in God,</hi> 1 <hi>Theſſ.</hi> 1.1. and <hi>Parnel</hi> ſaith he ownes that Church, and amongſt his Queries to the Prieſts, he would have them tell him what Church that is.</p>
+            <p>I wiſh <hi>Parnel</hi> had ſet down the interpretation from his in<g ref="char:EOLhyphen"/>fallible ſpirit, I believe we ſhould have found a blaſphemous one. But let us examine the Text, this Church of the <hi>Theſſalon.</hi> which was <hi>in God, ch.</hi> 5. <hi>ver.</hi> 12, 13. had <hi>Rulers over them,</hi> and they were to <hi>eſteem them highly,</hi> &amp;c. But <hi>Parnel,</hi> you deny all Church Officers, ſo doe all your ſect; then you are not in God, as this Church was.</p>
+            <p>In the 14 <hi>ver:</hi> they were to <hi>warn the unruly:</hi> in the 2 <hi>Epiſt:</hi> 3. <hi>ch:</hi> 11. there were <hi>diſorderly walkers,</hi> how can unruly, and diſorderly perſons be <hi>in God?</hi> tell us this. This Church was taught to <hi>pray without ceaſing,</hi> but you bid ſtay till the ſpirit moves.</p>
+            <p>But note this by the way, a Church may be ſaid to be a Church <hi>in God,</hi> and yet there may be ſome <hi>unruly,</hi> and <hi>diſor<g ref="char:EOLhyphen"/>derly perſons</hi> amongſt them. If you ſay, but they muſt be <hi>ex<g ref="char:EOLhyphen"/>horted, warned</hi> &amp;c. that is true, and ſo doe we exhort, warn, &amp;c. this will help ſave our Churches, (ſome at leaſt I am ſure.)</p>
+            <p>But what is it to be <hi>in God</hi> ſtill? ſhould I ſay (as ſome, hyperbolically, but very harſhly and unſavourily) <hi>After a ſort Deified?</hi> this I believe would pleaſe the Quakers, but how are unruly and diſorderly perſons <hi>Deified?</hi> ſhall I ſay, Church <hi>in God?</hi> ſo this Church (and others) is differenced from the Aſ<g ref="char:EOLhyphen"/>ſemblies of Pagans, as they were before, not <hi>in God,</hi> but <hi>Idols.</hi>
+               <pb n="43" facs="tcp:114648:26"/>And <hi>in Chriſt,</hi> ſo differenced from the <hi>Iewes,</hi> who refuſed Chriſt. They profeſſed the Faith of God and Chriſt, or they had an inward fellowſhip (ſome of them) and union with God and Chriſt, as I <hi>Ioh.</hi> 1.3. <hi>Our fellowſhip is with the Father and his Son,</hi> &amp;c. Others had an outward fellowſhip, as owned the faith, partaked of his Ordinances, and ſo viſibly did profeſſe themſelves to be the body of Chriſt.</p>
+            <p>But let M. <hi>Maſon</hi> obſerve, the Apoſtle makes a diſtinction here between <hi>God the Father and Chriſt;</hi> but he p. 8. ſaith, <hi>to make God, Chriſt, and Holy Ghoſt, three diſtinct perſons,
+<note place="margin">Afterwards p. 9. he calls it <hi>a bold and a blasphemous aſſertion.</hi>
+                  </note> is ſuch a piece of Divinity, as was never known till the Merchants of Babylon broached it:</hi> then quotes 14 <hi>Ioh. v.</hi> 7, 8, 9, 10, 11. But what will M. <hi>Maſon</hi> gather from hence, that Chriſt as he is the eternall Son of God, is of the ſame Eſſence with the Father, ſo that the Eſſence is but One? this we yeild. But I pray what doe you make of the Humanity of Chriſt? was it reall or imagi<g ref="char:EOLhyphen"/>nary? if reall, what, is the Humanity of Chriſt the ſame Eſſence with the Godhead? this is new Divinity indeed; what, is there no difference between <hi>Chriſt,</hi> and the Divine Eſſence ſubſiſting in the relation of the Son (if the word <hi>Perſon</hi> be ſo offenſive?) you ſay, <hi>for the ſimples ſake,</hi> p. 9. <hi>you will ſet down what the Lord gives you in vindication of his honour.</hi>
+            </p>
+            <p>Then quote the 14 of <hi>Ioh.</hi> the ſimple ones are much obliged to you and <hi>Parnel,</hi> but you have ſhown your ſelfe but ſimple in this, and have notably vindicated the honour of God, to make Chriſt, who is God-Man, and without the <hi>Manhood</hi> is not <hi>Christ,</hi> that the <hi>Manhood</hi> alſo muſt be one Eſſence with the <hi>Godhead.</hi>
+            </p>
+            <p>But to return to <hi>Parnel,</hi> I have already given one ground from the Church of the <hi>Theſſalon</hi> to prove there are ſome true Churches in <hi>England.</hi> I ſcarce thinke <hi>Parnel</hi> know what a Church is, for if he define it right, he muſt overthrow divers of his own principles. I wiſh his infallible ſpirit would have let us known his minde, that we might have tried the Quakers Church: but I will leave this with all the <hi>Quakers, Seekers, Separatiſts</hi> in <hi>England,</hi> that if they will own the Church of <hi>Corinth</hi> to be a true Church, then I will prove there are now many Churches in <hi>England</hi> that are true alſo.</p>
+            <pb n="42" facs="tcp:114648:27"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="43" facs="tcp:114648:27"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="44" facs="tcp:114648:28"/>
+            <p>For the <hi>Miniſters</hi> whom you and others call <hi>Prieſts,</hi> and ſay, <hi>we run before we were ſent,</hi> (you doe well to begin firſt to caſt that upon us, which you know will fall upon your owne heads:) no, we can prove our ſending: <hi>Biſhop.</hi> p. 23. he brings againſt us the 1. <hi>Tit.</hi> 7. Well, and are there not many Miniſters who doe in a good meaſure walk up to thoſe rules though they dare not brag of your perfection? Covetouſneſſe is the great thing you object; but to this I have anſwered before. As for anger, we may be angry; and if an exceſſe in anger ſometimes, will cut us off from being true Miniſters, then <hi>Paul</hi> and <hi>Barna<g ref="char:EOLhyphen"/>bas</hi> were not true Apoſtles. Reade <hi>Acts</hi> 15.39. if infirmities cut us off, then <hi>Peter</hi> was no Apoſtle who the ſecond time halted, <hi>Gal.</hi> 2. Then <hi>Ieremiah, Ionah,</hi> were no true Prophets. But <hi>G.
+<note place="margin">
+                     <hi>Dicitur</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <hi>pre<g ref="char:EOLhyphen"/>priè qui ad<g ref="char:EOLhyphen"/>haeret alicui, velut ungui<g ref="char:EOLhyphen"/>bus affixus, nec ſeſe finit avelli.</hi> Bul<g ref="char:EOLhyphen"/>ling. in loc.</note> Biſhop:</hi> why doe you leave out the 9 <hi>ver:</hi> where a <hi>Biſhop muſt hold fast the faithfull Word:</hi> here is no mention of the infallible ſpirit which he muſt forſake this faithfull Word, to liſten after: <hi>Then he muſt be able by ſound doctrine</hi> (not Quakers dreams) <hi>to exhort, and convince gainſayers.</hi> Where are theſe quaking Prat<g ref="char:EOLhyphen"/>lers, and others alſo, if theſe rules muſt trie them, who doe not know how to ſpeak ſenſe, but their <hi>reaſon</hi> is <hi>railing,</hi> and their anſwers, <hi>you lye,</hi> &amp;c.</p>
+            <p>Alſo <hi>G. Biſh:</hi> why did you not quote the 5 <hi>ver.</hi> where <hi>Titus</hi> a Church-Officer <hi>was left to Ordain other Church-Officers:</hi> theſe perſons ſo qualified. Lay theſe together, and here is the true ſending of a Miniſter (the peoples choice ſuppoſed, which we we alſo have.)</p>
+            <p>Thou doeſt quote alſo 1 <hi>Tim.</hi> 3.3. Take in the 2 <hi>v.</hi> alſo, there is one <hi>apt to teach:</hi> take in the 6 <hi>ver.</hi> And though <hi>Parnel</hi> be farre enough from the abilities required in a Biſhop, many miles ſhort, yet as he is <hi>a Novice lifted up with pride,</hi> ſo let him take heed of the next words. And why did not thou quote the 4 <hi>chap.</hi> of this <hi>Epiſt:</hi> 14 <hi>ver:</hi> &amp; 5 <hi>chap:</hi> 22. <hi>Lay hands ſud<g ref="char:EOLhyphen"/>denly.</hi> &amp;c. and there you ſhould have ſeen how theſe qualified men came into their places.</p>
+            <p>Trie us then for abilities, if you can, all you Quakers and Separatifts in <hi>England;</hi> then ſee what is required by the A<g ref="char:EOLhyphen"/>poſties example to bring us into the Miniſtery, and prove we have it not.</p>
+            <pb n="45" facs="tcp:114648:28"/>
+            <p>Object. <hi>You are Ordained by Biſhops.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> To this I have anſwered at large in another Book, though it be falſe of abundance of us, we receiv'd no Ordination from the Biſhops; yet I wiſh that the Separatiſts would think of one thing, in <hi>Rev.</hi> 6.9, 10, 11. there is mention made of many ſlain for the <hi>Word of God,</hi> &amp;c. <hi>theſe had white robes given them,</hi> &amp;c theſe who were ſlain muſt needs fall under the X Perſecu<g ref="char:EOLhyphen"/>tions under the heathen Emperours, and may well in a ſpeciall manner look to that horrible butchery under <hi>Diocleſian,</hi> but if you know thoſe times, you will finde there were abundance of <hi>Biſhops</hi> ſlain in thoſe times (I mean Biſhops who were above Presbyters in the Church) and you ſhall finde abundance of ceremonies, humane inventions in thoſe times in the worſhip of God, yet we finde God doth not ſhow ſuch diſdain of them as you doe now, <hi>he gives them white robes.</hi> Thus Bp: <hi>Cranmer, Ridley, Hooper,</hi> and abundance of Miniſters ordained by thoſe Biſhops, but ſuffered gloriouſly for the <hi>teſtimony which they held,</hi> the Lord will own them with honour in the Day of Judgment; how then you come to caſt off ſo many Miniſters of Chriſt, ſo able in the worke of the Goſpel, (as none have been more able ſince the Apoſtles dayes, no nor ſo able) ſo godly in their con<g ref="char:EOLhyphen"/>verſation, to whoſe Miniſtery God hath ſealed, in the ſpirituall children he hath given them, and onely becauſe they were or<g ref="char:EOLhyphen"/>dained by Biſhops, (who yet were Miniſters and did Miniſteriall work) doe you provide to anſwer for this at that day.</p>
+            <p>Some men will ſcarce own any mans Ordination but that which is by ſuch Biſhops, and you will own no Miniſters who are ordained by ſuch; if you two ſhould meet, who would be the ſtrongeſt?</p>
+            <p>
+               <hi>Parnel Gol:</hi> p. 26. makes this a proof againſt our Miniſtery, that it is <hi>earthly, becauſe in thus many years we have wrought no better reformation.</hi>
+            </p>
+            <p n="1">1. But <hi>Parnel,</hi> the Engliſh Miniſtery (through grace) will ſhow the greateſt reformation in the world, and yet none in the world oppoſed like it. We can ſhow the ſouls who confeſſe by us the Lord inlightened them, turned them, and hath built them up.</p>
+            <p n="2">2. Then <hi>Iſaiahs,</hi> and <hi>Ieremiahs,</hi> with other of the Prophets
+<pb n="46" facs="tcp:114648:29"/>Miniſtery was earthly, for I am ſure they wrought but little re<g ref="char:EOLhyphen"/>formation.</p>
+            <p n="3">3. What, was Chriſts Miniſtery earthly alſo? he complains <hi>Iſa.</hi> 49.4. that he had laboured in vain.</p>
+            <p n="4">4. What? you will have <hi>many called,</hi> and <hi>many choſen?</hi> Chriſt ſaith the contrary.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Concluſion. </seg>
+               </label> To conclude, I dare affirm that there is as true and as able a Miniſtery in <hi>England</hi> this day, as ever was ſince the Apoſtles died: and if any Quakers or Separatiſts will undertake to prove the contrary, ſo they will argue and not babble, they ſhall ſoon finde thoſe who will anſwer them. While therefore you caſt filth upon theſe (I plead not for every particular Miniſter) and upon all the Churches, you ſhow your light to be of Satan, &amp;c.</p>
+            <q>
+               <label type="milestone">
+                  <seg type="milestoneunit">Argum: </seg>11</label> 
+               <p>
+                  <hi>Major.</hi> That Light which brags of the infallible ſpirit, and yet cannot ſpeak good ſenſe or reaſon, that Light and Spirit muſt come from Satan, not from Chriſt.</p>
+               <p>
+                  <hi>Minor.</hi> But ſuch is the Quakers light and infallible Spirit. <hi>Ergo.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>Major.</hi> The Spirit of Chriſt is a Spirit of wiſdome, but he that ſpeaketh irrationally, nonſenſe, he doth not ſpeak wiſely: the Spirit of God is a moſt rationall Spirit, and where it ſpeaks, it ſpeaks like it ſelf, <hi>Acts</hi> 6.10. <hi>They were not able to reſiſt the wiſdome and the Spirit by which Stephen spake.</hi> Thus <hi>Paul, Apol<g ref="char:EOLhyphen"/>los, &amp;c.</hi> they ſpake rationally, carried ſuch ſtrength, that none could anſwer them.</p>
+            <p>Miniſters muſt be men able to <hi>convince,</hi> 1 <hi>Tit.</hi> 9. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. thoſe that talk irrationally will never <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>I know Satan can ſpeak rationally, &amp; ſenſe alſo, which makes us wonder what he means to take ſuch inſtruments, unleſſe it be becauſe he is at the laſt, ſeeing witty Jeſuits cannot doe the buſi<g ref="char:EOLhyphen"/>neſſe, now try if fooliſh Quakers can doe it: this alſo I know, that reaſon being a beam of God, there can be no true reaſon for ſin or errour. Alſo, though abundance of Gods people are weak and ſhallow, yet they never ſpeak truth, but they ſpeak ſenſe, and reaſon.</p>
+            <p>But here we have a pack, mightily inſulting over the Mini<g ref="char:EOLhyphen"/>ſters
+<pb n="47" facs="tcp:114648:29"/>becauſe they doe not aſſume to themſelves the <hi>infallible Spirit,</hi> in that notion which the Quakers boaſt they have it, and yet cannot ſpeak rationally. Let us hear a little.</p>
+            <p>
+               <hi>Qua: gl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>: of God,</hi> p 3, 4. there they undertake to anſwer the arguments the Apoſtle brings, 1 <hi>Cor.</hi> 9.9, 10, 11, &amp;c. to prove the maintenance of Miniſters: <hi>They that preach on the Goſpel muſt live upon the Goſpel. This ſcripture ſhames you, and ſhews your Goſpel will not maintain you, but you ſeek to Magiſtrat s<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and the Miniſters of the Goſpel are aſhamed of ſuch a pack of teachers.</hi> This is his anſwer, <hi>ſo, He that threſheth, threſheth in hope: Oh how have they threſhed in hope all this while, and got forth no corne, but are faine to ſeeke to the Magiſtrates for me<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nes and food.</hi> So, <hi>Thou ſhalt not muzzle the month of the Oxe: Oh you ſhameleſſe teachers, your mouthes must be muzled, have been treading all this while, and no corne trodden out to feed you, but are faine to ſeek to the Magiſtrates.</hi> Doe not theſe men ſpeak gal<g ref="char:EOLhyphen"/>lantly? Is not here evidence of the infallible Spirit? But if theſe Quakers would have ſpoken like men, thus ye ſhould have ſaid: True, <hi>thoſe who preach the Gospel, thoſe who threſh, thoſe who tread out, &amp;c.</hi> that is, thoſe who doe perform the work of the Lords Miniſters, in teaching, Iabouring faithfully, they may challenge maintenance by theſe Scriptures. But you doe not threſh, labour, &amp;c. in the Lords work. Therefore you cannot claim maintenance from theſe Seriptures; now you had ſpoken rationally, and there had been matter of ſhame indeed that we ſhould have called for corn, and not wrought: but now you have caſt all the ſhame upon the people, that we preaching, labouring, threſhing, &amp;c. are denied our corn, our maintenance, and are forced to goe to the Magiſtrates our <hi>nurſing fathers, Iſa.</hi> 49 <hi>v.</hi> 23. for it. Like a man who hath been plowing and threſhing halfe a yeare for another, when he comes to demand his wages, he is denied: the man goeth to the Magiſtrate to be helped, the Quakers cry out, Oh thou ſhameleſſe man, haſt thou been plowing and threſhing ſo long, and now art fain to goe to the Magiſtrate? &amp;c. Doth the man deſerve ſhame, or he who deny him his due? So here.</p>
+            <p>Thus, <hi>Prieſts Igno:</hi> p. 2. <hi>The teachers of the world sprinkle Infants, telling people its an Ordinance of God, which is contrary
+<pb n="48" facs="tcp:114648:30"/>to the Scriptures;</hi> and quotes in his margent <hi>Gal.</hi> 3.1. <hi>Luc.</hi> 1.26.36. Let any one reade thoſe Scriptures, and ſee how they oppoſe it: he quotes no other Scriptures.</p>
+            <p>In the next: <hi>The teachers of the world call people unto a Sacra<g ref="char:EOLhyphen"/>ment, for the which there is no Scripture, here they act contrary to the Scriptures:</hi> quoting <hi>Gen.</hi> 29.28. the words are theſe, <hi>and Iacob did ſo and fulfilled her weeke, and he gave him Rachel his daughter to wife alſo,</hi> and <hi>Gen.</hi> 10. but no verſe. Theſe are all the Scriptures. Here you ſee the Prieſts ignorance, and the Qua<g ref="char:EOLhyphen"/>kers knowledge laid together.</p>
+            <p>So let any one that hath reaſon reade <hi>Naylor</hi> his <hi>Anſwer</hi> to <hi>Io: Reyners</hi> Queries. <hi>Parnel</hi> againſt Dr. <hi>Draton,</hi> and then ſee if it be not a wofull judgment of God to let a Nation be over<g ref="char:EOLhyphen"/>run, and people catched, with ſuch witleſſe, brainleſſe fellowes, beſides their groſſe, abominable principles, that deſtroy Scri<g ref="char:EOLhyphen"/>ptures, Ordinances, Churches, civil States, &amp;c.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Concluſion. </seg>
+               </label> Since then the Light which the Quakers boaſt come from the infallible Spirit in them, is thus, irrationall, brutiſh, &amp;c. I con<g ref="char:EOLhyphen"/>clude, their Light is from Satan, not from Chriſt.</p>
+            <q>
+               <label type="milestone">
+                  <seg type="milestoneunit">Argum: </seg>12</label> 
+               <p>
+                  <hi>Major.</hi> That Light which affirmeth ſound believers, walk<g ref="char:EOLhyphen"/>ing (evangelically) in obedience to Gods commande<g ref="char:EOLhyphen"/>ments to be in a ſtate of condemnation, that Light is from Satan, not from Chriſt.</p>
+               <p>
+                  <hi>Minor.</hi> But ſo doe the Light of the Quakers: <hi>Ergo.</hi>
+               </p>
+            </q>
+            <p>The <hi>Major</hi> is plain, 3 <hi>Ioh.</hi> 36.18.16. &amp; 16 <hi>Mar.</hi> 16. If faith and holineſſe ſhall go to hell, what ſhall goe to heaven?</p>
+            <p>
+               <hi>Minor.</hi>
+               <note place="margin">They doe not ſay this in ſo many words, but by conſe<g ref="char:EOLhyphen"/>quence; for the perſons who are ſuch, and they cannot diſprove it, they affirm to be in that con<g ref="char:EOLhyphen"/>dition.</note> But the Quakers Light affirmeth ſound believers, and perſons who walk in obedience &amp;c. to be in a ſtate of con<g ref="char:EOLhyphen"/>demnation.</p>
+            <p>For we are aſſured there are hundreds of ſound believers in Chriſt in <hi>England,</hi> that fear to ſinne, walke with the Lord, (and that more cloſe than the Quakers) who doe deteſt and abomi<g ref="char:EOLhyphen"/>nate the Quakers doctrines, principles, and practiſes; but the Quakers ſay of thoſe who come not amongſt them, that they ſhall be damned, periſh, &amp;c. This is their common language a<g ref="char:EOLhyphen"/>bout us.</p>
+            <pb n="49" facs="tcp:114648:30"/>
+            <p>Thus <hi>J. Toldervy,</hi> Ep. 17.18. told his Maſter <hi>Col. Web.</hi> Thus <hi>Maſon</hi> p. 8. ſpeaking to the Miniſters, whom he calls <hi>Merchants of Babylon,</hi> bid us read our doom, in <hi>Revel.</hi> 18.7.8. yet among theſe I am ſure are very ſound believers, and very holy men, if they may be tried by the word: which ſhall try them, yea and you <hi>Maſon,</hi> and all your <hi>Quakers,</hi> notwithſtanding your boaſtings of the infallible Spirit.</p>
+            <p>Thus <hi>I. N.</hi> p. 17. <hi>F. Harris</hi> makes this Querie, <q rend="margQuotes">Whether it be ſafe for Chriſtians to forſake and let goe thoſe Goſpel-diſpenſations of the Spirit of Truth, in which God hath bleſ<g ref="char:EOLhyphen"/>ſedly appeared, &amp;c?</q>
+            </p>
+            <p>The ſumme of his anſwer is this, <hi>that all thoſe who deny the light of Chriſt, and the infallible ſpirit</hi> (in their ſenſe this muſt be taken, elſe we do ſay, ſome truth is in this) <hi>have nothing but the spirit of deluſions:</hi> but then adds, <hi>without the infallible ſpirit there is no promiſe nor word, but what is ſtolen from others, or out of a booke, and had thou had no booke thou had no voice nor promiſe.</hi> Here is brave ſtuffe: the promiſes then in the Bible, are little worth; if <hi>I. N.</hi> can finde any promiſes out of this book, let him take them for me.</p>
+            <p>Thus <hi>Parnel</hi> and <hi>Naylor</hi> call the Miniſters, <hi>Magicians.</hi>
+            </p>
+            <p>Let the <hi>Quakers</hi> tell us what is <hi>faith,</hi> according as the Lord Chriſt declares it in his Word, (not their infallible Spirit with<g ref="char:EOLhyphen"/>out the Word) tell us what it is to walk holily, as the holy men in Scripture have done, and ſee if there be not many hundreds that anſwer that faith and holineſſe.</p>
+            <p>And let me deſire the Quakers but to tell me of <hi>one</hi> man in the Word of God that was holy, who embraced the Quakers doctrines, principles, and practiſes?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Concluſion. </seg>
+               </label> Since then the Quakers light condemne ſuch, as the light of Chriſt approves of; hence I conclude, their light is from Sa<g ref="char:EOLhyphen"/>tan, &amp;c.</p>
+            <p>Jam. 3.1. <hi>Be not many Maſters, knowing we ſhall receive the greater condemnation.</hi> Who ſo maſterly as the Quakers, <hi>Mat.</hi> 7. <hi>ver:</hi> 1.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Argum: </seg>13</label> As for their <hi>ſhaking</hi> in that ſtrange manner, which ſome re<g ref="char:EOLhyphen"/>port of them, and their books defend, it is manifeſt enough to
+<pb n="50" facs="tcp:114648:31"/>every one, <hi>whom the God of this world hath not blinded,</hi> whence it comes, and prove their doctrine to have the ſame Authour: it is a thing ſo known amongſt them, that <hi>J. Toldervy</hi> ſaith p. 28. <hi>He had long waited for it,</hi> then had it to purpoſe: <hi>My whole man was ſo ſhaken, torn, and rent, that had I not by a great ſtrength been enabled, I could not have continued: alſo it did worke in me as though I had taken a ſtrong purge,</hi> pag. 29. yet <hi>I. N.</hi> againſt <hi>F. Harris</hi> p. 18. abuſeth the holy examples of <hi>Daniel, Moſes,</hi> and <hi>David,</hi> to defend theſe Diabolical actings; nothing like thoſe holy men, neither in the cauſes, nor effects. Let the Rea<g ref="char:EOLhyphen"/>der obſerve the Hiſtory at the end of the book.</p>
+            <p>I ſhall conclude all with tranſcribing a few lines out of him where he relateth what one of theſe Quakers, who was of his former acquaintance,
+<note place="margin">pag. 7.</note> ſpake to him, (with Anſwer to one of <hi>Parnels</hi> Queries) <hi>He gave me to understand that they were ſent forth to preach the Gospel by the ſame Chriſt the Apoſtles were, and that the perſon, that Son of God which died at</hi> Jeruſalem, <hi>was not the Redeemer of man from ſinne.</hi> Oh fearful! <hi>but the redeemer was in every particular man, that light by which he was given to ſee ſinne, and enabled by it, if obeyed, to be redeemed from ſinne: which Chriſt had redeemed them perfect, and now lived in them Lord of all things, by which they were made the ſons of God, and ſo what was manifeſted to them by that ſubstance, from that ſub<g ref="char:EOLhyphen"/>ſtance were they moved to speake, which was the ſame holy Ghoſt, by which the Apoſtles were endued, ſent forth and enabled to preach: ſo he declared how ſometimes in the night they were imme<g ref="char:EOLhyphen"/>diately commanded by the eternall spirit to goe forth and preach,</hi> &amp;c. Here is enough ſaid to make us all quake: I intend not to open the wretchedneſſe that lieth in theſe words, onely this is worth the obſervation; that whereas ſome have caſt off all Officers, and Churches, becauſe we are out of order, ſay they, and therefore they wait for Apoſtolical men to be ſent from God (I know not how) to bring us into order: here you have them, I hope your expectation is anſwered, by a fearful judge<g ref="char:EOLhyphen"/>ment of God.</p>
+            <p>But let us hear what is <hi>Parnels</hi> opinion, though propounded by way of querie, <hi>Whether any now ought to preach in the name of Jeſus, but who are called to it, and fitted for it the ſame way as the holy men of God were, spoken of in Scripture?</hi>
+            </p>
+            <pb n="51" facs="tcp:114648:31"/>
+            <p>What holy men he meaneth, the next Querie to this will in<g ref="char:EOLhyphen"/>terpret: <hi>Whether doe you owne immediate revelation now, yea or nay?</hi> q 8.9. The queſtion would be, what he means by imme<g ref="char:EOLhyphen"/>diate revelation? but by comparing their ſpirits we may know his meaning. <hi>Biſhop</hi> p. 24. proving that we are not the Miniſters of Chriſt, brings in this for one proof, <hi>Gal.</hi> 1.12. the Miniſters of Chriſt, <hi>received not the Goſpel by man, nor the will of man, nor were they taught it but by the revelation of Jeſus Chriſt in them.</hi> We may ſee what <hi>Parnel</hi> aimes at: but in this ſenſe? no, we own no ſuch revelations.</p>
+            <p n="1">1. For, what ſhould ſuch Revelations concern? <hi>Faith,</hi> or <hi>Manners?</hi> If <hi>Faith;</hi> All that we are bound to <hi>believe</hi> Chriſt hath perfectly revealed in his Word: If <hi>Manners;</hi> Chriſt alſo hath perfectly reveal'd the whole will of <hi>God</hi> for our obedience, 2 <hi>Tim.</hi> 3.16, 17. <hi>The Scripture,</hi> &amp;c. There it is to be found in the Scripture, whatever is requiſite to make <hi>the man of God per<g ref="char:EOLhyphen"/>fect.</hi> Since we have a perfect rule, what need we more? What if there be a revelation that croſſe an Article of faith, or rule of obedience in the Scripture, (as doe the pretended revelations of the Quakers) what ſhall we judge of it? Surely the Devil is the Author of it.</p>
+            <p n="2">2. The foundation upon which the true Church of Chriſt is built, hath long ſince been perfectly layed; <hi>Epheſ.</hi> 2.20. and <hi>are built upon the foundation of the Apoſtles and Prophets, Jeſus Chriſt himſelf being the chief Corner-ſtone.</hi> No Church need any better foundation to be built upon than the Church of the <hi>E<g ref="char:EOLhyphen"/>pheſians</hi> was built upon: that was built upon, not any of our new, mad, Diabolical Apoſtles; but the Apoſtles which the Lord Jeſus himſelf called, fitted in a glorious manner, that the ſervants did ſhew who was their Maſter: and <hi>Paul</hi> one of theſe <hi>Acts</hi> 20.27. tells the Elders, <hi>I have not ſhunned to declare to you</hi> All <hi>the Counſell of God,</hi> which concerneth our ſalvation. If the <hi>Quakers</hi> bring any more, then <hi>Paul</hi> did not declare <hi>All:</hi> but whether <hi>Paul</hi> or the <hi>Quakers</hi> ſpeak trueſt, we will not diſpute: ſhew us now ſuch men as thoſe Apoſtles were.</p>
+            <p n="3">3. I pray tell us, what Scripture have you to prove that any men now in theſe dayes ſhould have ſuch revelations, and that now we muſt look again for Apoſtles? It may be you will make
+<pb n="52" facs="tcp:114648:32"/>a <hi>tuſh</hi> at Scripture, and tell us your infallible Spirit tells you ſo: but we can upon better grounds make a <hi>tuſh</hi> at your Spirit, and curſe you by the authority of the Spirit, for adding to his Word, <hi>Deut.</hi> 12.32. <hi>Rev.</hi> 22.18.</p>
+            <p n="4">4. Before you brag of your Apoſtleſhip and Revelations, ſhew your ſelves to be, I will not ſay <hi>Chriſtians,</hi> but <hi>Men,</hi> ra<g ref="char:EOLhyphen"/>tional men, which as yet you have not done.</p>
+            <p n="5">5. As after thoſe Prophets under the Old Teſtament whom God raiſed up, no man dared to aſſume to himſelfe that Name and Office (I know there were thoſe who were called Prophets in the N. Teſt. but they differed from the Old) or dared to be a Pen-man: ſo after the Apoſtles whom Chriſt himſelfe choſe, fitted, and authorized to be his Pen-men in the New Teſtament, let none dare to be ſo deviliſh to aſſume that Office, or Name unto themſelves.</p>
+            <p n="6">6. The Teſtatour is dead, who then ſhall make any other Teſtament? or what need is there of any other, than what him<g ref="char:EOLhyphen"/>ſelf hath made?</p>
+            <p>For the <hi>infallible Spirit</hi> the Quakers ſo much prate of, abu<g ref="char:EOLhyphen"/>ſing the Miniſters becauſe they doe not boaſt of it, (and <hi>Maſon</hi> in particular, <hi>pag:</hi> 15. abuſeth Mr. <hi>Scortrith,</hi> and bid his people take heed of him) I ſhall ſpeak a few words. <hi>Maſon</hi> adds this, <hi>Take this along with you too,</hi>
+               <list>
+                  <item>The Spirit of Truth is the infallible Spirit.</item>
+                  <item>But <hi>George Scortrith</hi> confeſſes he hath not the Infallible:</item>
+                  <item>Therefore <hi>George Scortrith</hi> preaches from the Spirit of Er<g ref="char:EOLhyphen"/>rour.</item>
+               </list>
+            </p>
+            <p>What now? what doe <hi>Quakers</hi> make Syllogiſmes? then we look to our ſelves; but <hi>Maſon</hi> the next time you make a Syl<g ref="char:EOLhyphen"/>logiſme, deſire your Maſter to learn you ſo much skill to make a true one, for the Prieſts doe laugh to reade ſuch a falſe one. You might have indeed diſpoſed the predicate of your queſtion in the <hi>Major</hi> propoſition, with ſome words altered, but now it is no where diſpoſed. But to the buſineſſe:</p>
+            <p n="1">1. If the <hi>Quakers</hi> would have us affirme that all Miniſters muſt have the Spirit in that manner as the Prophets, 1 <hi>Pet.</hi> 1. <hi>v.</hi> 11. and Apoſtles, <hi>v.</hi> 12. So 2 <hi>Pet.</hi> 1. <hi>ult.</hi> then we profeſſedly ſay, we have it not. If the <hi>Quakers</hi> ſay they have it ſo, then I
+<pb n="53" facs="tcp:114648:32"/>ſay, the Spirit in the <hi>Prophets</hi> and <hi>Apostles</hi> was not the infallible Spirit, for the Quakers ſpirit is croſſe to that.</p>
+            <p n="2">2. I affirm that Miniſters (I mean not every particular man who calls himſelf a Miniſter) have that Spirit which is Infallible, to ſome a <hi>Spirit of gifts</hi> and <hi>grace,</hi> to ſome <hi>onely gifts.</hi> We pray to the Lord <hi>for</hi> it, and that we may be guided <hi>by</hi> it.</p>
+            <p n="3">3. True Miniſters doe by that Spirit from his word, teach to their people the infallible truths of Chriſt, they build them upon ſuch foundations for doctrine and practiſe, that not one who follow their preaching ſhall ever miſcarry, but ſhall ho<g ref="char:EOLhyphen"/>nour God here, and be infallibly ſaved hereafter.</p>
+            <p n="4">4. Thoſe who have forſaken this Miniſterie, the Spirit of God hath left them, and let them fall into corrupt errors, and ſome damnable hereſies, with practiſes grievous, and offenſive to the Spirit.</p>
+            <p>But yet to ſay that this Spirit which (with reverent humility) we dare ſay we have, doth, or is bound to teach us every one in every <hi>Iota</hi> of truth, ſo that not in any particular whatever we may miſtake, this we doe not affirm, no more than he doth, or is bound to expell every relique of corruption out of our hearts: <hi>we know but in part. Peter</hi> might boaſt of this Spirit more than <hi>Maſon,</hi> but whence then doth he walke ſo, <hi>Gal.</hi> 2.11.14. as to deſerve a reproof.</p>
+            <p>Nay goe to others who were guided extraordinarily: <hi>Iſaac</hi> by a prophetical Spirit, and infallible, bleſſed <hi>Iacob,</hi> but he miſ<g ref="char:EOLhyphen"/>took in the perſon whom he bleſſed, he thought it had been <hi>Eſau:</hi> the infallible Spirit did not guide him there to know <hi>Jacob,</hi> but he erred as to his owne purpoſe. <hi>Samuel</hi> went to anoint <hi>David</hi> by an infallible Spirit, but he miſtook in <hi>Eliab.</hi> So <hi>Nathan</hi> a Prophet, but he miſtook in his counſell to <hi>David</hi> about the Temple building. Then why the Spirit ſhould ſo teach every Miniſter that in no point whatever he ſhould miſ<g ref="char:EOLhyphen"/>take (ſo long as in nothing that concern the ſalvation of his people) I know not.</p>
+            <p>Much more might be gathered out of their Books, whereby it may appear by what ſpirit theſe <hi>Quakers</hi> are led, truely by Sa<g ref="char:EOLhyphen"/>tan, <hi>ſcarce transformed into an Angel of Light.</hi>
+            </p>
+            <p>And now to you who are my people, and have choſen me to
+<pb n="54" facs="tcp:114648:33"/>be your Officer, having thus opened the wickedneſſe of this Sect, I exhort you to beware of them: for you who have un<g ref="char:EOLhyphen"/>derſtanding ſo as you are able to oppoſe them, I doe not fear your going to hear them, or conferring with them, they are ſcarce men in reaſon: for you who are of the weaker ſort, I exhort you again, come not neer them ſo much as to hear them, (ſince warning is given what they are) but if you will doe it, know aſſuredly, the Church will proceed againſt you for ſo do<g ref="char:EOLhyphen"/>ing, as for any other ſinne.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="narration">
+            <pb n="55" facs="tcp:114648:33"/>
+            <head>A Miniſter now in <hi>Eſſex</hi> gave this <hi>Narration</hi> to a friend of mine, written with his own hand, and his name to it; the Copie is true that I here offer to the Reader.</head>
+            <opener>
+               <dateline>
+                  <date>The 8<hi rend="sup">th</hi> Moneth, 19<hi rend="sup">th</hi> day. 1654.</date>
+               </dateline>
+            </opener>
+            <p>AT the earneſt deſire of ſome friends, I went with <hi>John Ward</hi> and <hi>Anthony Hunter</hi> to a meeting of the de<g ref="char:EOLhyphen"/>luded ſouls called <hi>Quakers,</hi> at <hi>John Hunters</hi> of <hi>Benfield-ſide</hi> in the County of <hi>Durham,</hi> where we found about twenty perſons ſitting all ſilent: after we had ſate awhile (all being mute) the Lord moved me to ariſe, and call upon his name by prayer. I was no ſooner up, but my leggs trem<g ref="char:EOLhyphen"/>bled greatly, ſo that it was ſome difficulty to ſtand: but after I had prayed a ſhort ſpace the trembling ceaſed: while I prayed to GOD as a Creatour, there was but little diſtur<g ref="char:EOLhyphen"/>bance, but when I cryed in the name of JESUS CHRIST my Mediatour, God in my nature, now in the higheſt glory appearing and interceding for his Saints, then the Devil roared in the deceived ſoules in most ſtrange and dreadfull manner, ſome howling, ſome ſcreeking, yelling, roaring, and ſome had a ſtrange confuſed kinde of humming, ſing<g ref="char:EOLhyphen"/>ing noiſe.</p>
+            <p>Such a repreſentation of Hell I never heard of, nothing but horror and confuſion.</p>
+            <p>After I had done praying (not opening my eyes before) I was amazed to ſee about the one halfe of thoſe miſerable creatures ſo terribly ſhaken, with ſuch ſtrange violent va<g ref="char:EOLhyphen"/>rious motions, that I wondred how it was poſsible ſome of them could live.</p>
+            <pb n="56" facs="tcp:114648:34"/>
+            <p>In the midst of this confuſion, one of them asked if I were come to torment them? To whom I applyed this word, <hi>Mat. 8.29.</hi>
+            </p>
+            <p>And while I ſpake ſomething of Faith, they declared that they were come to the faith of Devils, <hi>Jam. 2.19.</hi> but ſaid we were not attained to ſuch a faith.</p>
+            <p>After two houres, as we were departing out of the houſe, one of them curſed me with theſe words: <hi>All the plagues of God be upon thee.</hi> Whereupon, I returned and prayed for ſuch of them, as had not committed the unpar<g ref="char:EOLhyphen"/>donable ſinne. <hi>Thus farre this Miniſter.</hi>
+            </p>
+            <milestone type="tcpmilestone" unit="unspecified" rend="hr"/>
+            <p>Lately in a Town neer me, when the <hi>Quakers</hi> were met together, there appeared <hi>one</hi> amongſt them in ſuch a ſhape, as cauſed them to break up their meeting, with no ſmall trouble to divers of them. I cannot learne the perfect manner, for the <hi>Quakers</hi> will not reveale it; onely ſo much ſome of them have affirmed, and I will not publiſh more than I am certaine of. I wiſh it may turn to their good.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
